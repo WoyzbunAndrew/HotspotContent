@@ -1,0 +1,459 @@
+{
+    "location": [
+        {
+            "name": "Warrawandu Village",
+            "locationType": "Village",
+            "latitude": -23.3365,
+            "longitude": 119.9316,
+            "iconName": "home",
+            "leftPercentage": 50,
+            "topPercentage": 2,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                },
+                {
+                    "name": "Jimblebar",
+                    "locationType": "Jimblebar",
+                    "latitude": -23.460389,
+                    "longitude": 120.18384
+                },
+                {
+                    "name": "Jimblebar Hub",
+                    "locationType": "JimblebarHub",
+                    "latitude": -23.344274,
+                    "longitude": 120.059643
+                },
+                {
+                    "name": "OB24",
+                    "locationType": "OB24",
+                    "latitude": -23,
+                    "longitude": 120
+                },
+                {
+                    "name": "Newman",
+                    "locationType": "Newman",
+                    "latitude": -23.35936,
+                    "longitude": 119.733853
+                },
+                {
+                    "name": "OB25",
+                    "locationType": "OB25",
+                    "latitude": -23,
+                    "longitude": 120
+                },
+                {
+                    "name": "LAX",
+                    "locationType": "LAX",
+                    "latitude": -23,
+                    "longitude": 120
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                },
+                {
+                    "name": "Jimblebar",
+                    "locationType": "Jimblebar",
+                    "latitude": -23.460389,
+                    "longitude": 120.18384
+                },
+                {
+                    "name": "Jimblebar Hub",
+                    "locationType": "JimblebarHub",
+                    "latitude": -23.344274,
+                    "longitude": 120.059643
+                },
+                {
+                    "name": "OB24",
+                    "locationType": "OB24",
+                    "latitude": -23,
+                    "longitude": 120
+                },
+                {
+                    "name": "Newman",
+                    "locationType": "Newman",
+                    "latitude": -23.35936,
+                    "longitude": 119.733853
+                },
+                {
+                    "name": "OB25",
+                    "locationType": "OB25",
+                    "latitude": -23,
+                    "longitude": 120
+                },
+                {
+                    "name": "LAX",
+                    "locationType": "LAX",
+                    "latitude": -23,
+                    "longitude": 120
+                }
+            ]
+        },
+        {
+            "name": "Airport",
+            "locationType": "Airport",
+            "latitude": -23.411332,
+            "longitude": 119.801491,
+            "iconName": "flight",
+            "leftPercentage": 35,
+            "topPercentage": 98,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "Kurra",
+                    "locationType": "Kurra",
+                    "latitude": -23,
+                    "longitude": 119
+                },
+                {
+                    "name": "Jimblebar",
+                    "locationType": "Jimblebar",
+                    "latitude": -23.460389,
+                    "longitude": 120.18384
+                },
+                {
+                    "name": "OB24",
+                    "locationType": "OB24",
+                    "latitude": -23,
+                    "longitude": 120
+                },
+                {
+                    "name": "OB25",
+                    "locationType": "OB25",
+                    "latitude": -23,
+                    "longitude": 120
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "Kurra",
+                    "locationType": "Kurra",
+                    "latitude": -23,
+                    "longitude": 119
+                },
+                {
+                    "name": "Jimblebar",
+                    "locationType": "Jimblebar",
+                    "latitude": -23.460389,
+                    "longitude": 120.18384
+                },
+                {
+                    "name": "OB24",
+                    "locationType": "OB24",
+                    "latitude": -23,
+                    "longitude": 120
+                },
+                {
+                    "name": "Jimblebar Hub",
+                    "locationType": "JimblebarHub",
+                    "latitude": -23.344274,
+                    "longitude": 120.059643
+                }
+            ]
+        },
+        {
+            "name": "Jimblebar Gatehouse",
+            "locationType": "JimblebarGatehouse",
+            "latitude": -23.344274,
+            "longitude": 120.059643,
+            "iconName": "location_city",
+            "leftPercentage": 74,
+            "topPercentage": 27,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Jimblebar Hub",
+                    "locationType": "JimblebarHub",
+                    "latitude": -23.344274,
+                    "longitude": 120.059643
+                }
+            ],
+            "originLocation": []
+        },
+        {
+            "name": "Jimblebar",
+            "locationType": "Jimblebar",
+            "latitude": -23.460389,
+            "longitude": 120.18384,
+            "iconName": "location_city",
+            "leftPercentage": 98,
+            "topPercentage": 98,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                }
+            ]
+        },
+        {
+            "name": "Jimblebar Hub",
+            "locationType": "JimblebarHub",
+            "latitude": -23.344274,
+            "longitude": 120.059643,
+            "iconName": "location_city",
+            "leftPercentage": 83,
+            "topPercentage": 46,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                }
+            ]
+        },
+        {
+            "name": "LAX",
+            "locationType": "LAX",
+            "latitude": -23,
+            "longitude": 120,
+            "iconName": "insert_photo",
+            "leftPercentage": 38,
+            "topPercentage": 2,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "OB24",
+                    "locationType": "OB24",
+                    "latitude": -23,
+                    "longitude": 120
+                }
+            ]
+        },
+        {
+            "name": "OB24",
+            "locationType": "OB24",
+            "latitude": -23,
+            "longitude": 120,
+            "iconName": "insert_photo",
+            "leftPercentage": 26,
+            "topPercentage": 2,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                },
+                {
+                    "name": "OB25",
+                    "locationType": "OB25",
+                    "latitude": -23,
+                    "longitude": 120
+                },
+                {
+                    "name": "LAX",
+                    "locationType": "LAX",
+                    "latitude": -23,
+                    "longitude": 120
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                },
+                {
+                    "name": "OB25",
+                    "locationType": "OB25",
+                    "latitude": -23,
+                    "longitude": 120
+                }
+            ]
+        },
+        {
+            "name": "OB25",
+            "locationType": "OB25",
+            "latitude": -23,
+            "longitude": 120,
+            "iconName": "insert_photo",
+            "leftPercentage": 20,
+            "topPercentage": 24,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "OB24",
+                    "locationType": "OB24",
+                    "latitude": -23,
+                    "longitude": 120
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                },
+                {
+                    "name": "OB24",
+                    "locationType": "OB24",
+                    "latitude": -23,
+                    "longitude": 120
+                },
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                }
+            ]
+        },
+        {
+            "name": "Newman",
+            "locationType": "Newman",
+            "latitude": -23.35936,
+            "longitude": 119.733853,
+            "iconName": "location_city",
+            "leftPercentage": 14,
+            "topPercentage": 46,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Warrawandu Village",
+                    "locationType": "Village",
+                    "latitude": -23.3365,
+                    "longitude": 119.9316
+                }
+            ]
+        },
+        {
+            "name": "Kurra",
+            "locationType": "Kurra",
+            "latitude": -23,
+            "longitude": 119,
+            "iconName": "location_city",
+            "leftPercentage": 1,
+            "topPercentage": 46,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "destinationLocation": [
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                }
+            ],
+            "originLocation": [
+                {
+                    "name": "Airport",
+                    "locationType": "Airport",
+                    "latitude": -23.411332,
+                    "longitude": 119.801491
+                }
+            ]
+        }
+    ]
+}
