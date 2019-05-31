@@ -1,0 +1,4898 @@
+{
+    "busRoute": [
+        {
+            "routeType": "VillageToAirport",
+            "originLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "destinationLocation": {
+                "name": "Newman Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:45",
+                            "note": "To Airport (JB Side)",
+                            "flight": {
+                                "flightNumber": "QF2651",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:45",
+                            "note": "To Airport (ER Side)",
+                            "flight": {
+                                "flightNumber": "QF2651",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "08:45",
+                            "note": "To Airport",
+                            "flight": {
+                                "flightNumber": "VA9102",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "14:30",
+                            "note": "To Airport",
+                            "flight": {
+                                "flightNumber": "VA1892",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:45",
+                            "note": "To Airport",
+                            "flight": {
+                                "flightNumber": "QF1827",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "06:45",
+                            "note": "To Airport (ER Side)",
+                            "flight": {
+                                "flightNumber": "QF1821",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "08:05",
+                            "note": "To Airport",
+                            "flight": {
+                                "flightNumber": "QF1627",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "14:30",
+                            "note": "To Airport",
+                            "flight": {
+                                "flightNumber": "QF1101",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "15:50",
+                            "note": "To Airport",
+                            "flight": {
+                                "flightNumber": "QF1089",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:45",
+                            "note": "To Airport (JB Side)",
+                            "flight": {
+                                "flightNumber": "QF2651",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "15:50",
+                            "note": "To Airport",
+                            "flight": {
+                                "flightNumber": "QF1089",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "07:00",
+                            "note": "To Airport (JB Side)",
+                            "flight": {
+                                "flightNumber": "VA1876",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "14:40",
+                            "note": "To Airport",
+                            "flight": {
+                                "flightNumber": "QF2655",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "AirportToVillage",
+            "originLocation": {
+                "name": "Newman Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "destinationLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "08:15",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "08:45",
+                            "note": "To Warrawandu (NPI)",
+                            "flight": {
+                                "flightNumber": "LV6123",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "08:10",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 3,
+                            "departureTime": "08:25",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "VA1873",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "09:05",
+                            "note": "To Warrawandu",
+                            "flight": {
+                                "flightNumber": "QF1822",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "10:05",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "VA9101",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 3,
+                            "departureTime": "10:35",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1102",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "15:40",
+                            "note": "To Warrawandu (BHP New Starters)",
+                            "flight": {
+                                "flightNumber": "QF1100",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "16:40",
+                            "note": "To Warrawandu",
+                            "flight": {
+                                "flightNumber": "QF1088",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "18:30",
+                            "note": "To Warrawandu",
+                            "flight": {
+                                "flightNumber": "QF1826",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "08:10",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1092",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "09:25",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1626",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "07:35",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF2650",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "08:25",
+                            "note": "To Jimblebar - Stop and Go Warrawandu (N/S workers only)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "JimblebarToAirport",
+            "originLocation": {
+                "name": "Jimblebar",
+                "locationType": "Jimblebar",
+                "latitude": -23.460389,
+                "longitude": 120.18384
+            },
+            "destinationLocation": {
+                "name": "Newman Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "MEM Only",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "AirportToJimblebar",
+            "originLocation": {
+                "name": "Newman Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "destinationLocation": {
+                "name": "Jimblebar",
+                "locationType": "Town",
+                "latitude": -23.460389,
+                "longitude": 120.18384
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "08:15",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "08:10",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 3,
+                            "departureTime": "08:25",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "VA1873",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "10:05",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "VA9101",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 3,
+                            "departureTime": "10:35",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1102",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "08:10",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1092",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "09:25",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1626",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "07:35",
+                            "note": "To Jimblebar via Warrawandu (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF2650",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "08:25",
+                            "note": "To Jimblebar - Stop and Go Warrawandu (N/S workers only)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "VillageToJimblebar",
+            "originLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "destinationLocation": {
+                "name": "Jimblebar",
+                "locationType": "Town",
+                "latitude": -23.460389,
+                "longitude": 120.18384
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:25",
+                            "note": "To Jimblebar (MEM Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "JimblebarToVillage",
+            "originLocation": {
+                "name": "Jimblebar",
+                "locationType": "Town",
+                "latitude": -23.460389,
+                "longitude": 120.18384
+            },
+            "destinationLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "18:15",
+                            "note": "MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "18:15",
+                            "note": "MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "18:15",
+                            "note": "MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "18:15",
+                            "note": "MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "18:15",
+                            "note": "MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "18:15",
+                            "note": "MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "18:15",
+                            "note": "MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "VillageToOb24",
+            "originLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "destinationLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:15",
+                            "note": "Warrawandu to OB24 Admin (ESO pick-up)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:15",
+                            "note": "Warrawandu to OB24 Admin (ESO pick-up)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:15",
+                            "note": "Warrawandu to OB24 Admin (ESO pick-up)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:15",
+                            "note": "Warrawandu to OB24 Admin (ESO pick-up)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:15",
+                            "note": "Warrawandu to OB24 Admin (ESO pick-up)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:15",
+                            "note": "Warrawandu to OB24 Admin (ESO pick-up)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:15",
+                            "note": "Warrawandu to OB24 Admin (ESO pick-up)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB24 Admin & OB24 MEM (D&A drop off)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "Ob24ToVillage",
+            "originLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "05:25",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB24 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "Ob24ToOb24",
+            "originLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB24 Admin to OB24 MEM",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB24 MEM to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "KurraToAirport",
+            "originLocation": {
+                "name": "Kurra",
+                "locationType": "Kurra",
+                "latitude": -23,
+                "longitude": 119
+            },
+            "destinationLocation": {
+                "name": "Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "08:45",
+                            "note": "",
+                            "flight": {
+                                "flightNumber": "VA9102",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "AirportToKurra",
+            "originLocation": {
+                "name": "Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "destinationLocation": {
+                "name": "Kurra",
+                "locationType": "Kurra",
+                "latitude": -23,
+                "longitude": 119
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1092",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1822",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1092",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "AirportToOb24",
+            "originLocation": {
+                "name": "Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "destinationLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1092",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1822",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1092",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "VillageToNewman",
+            "originLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "destinationLocation": {
+                "name": "Newman",
+                "locationType": "Newman",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "08:45",
+                            "note": "Warrawandu to Newman Shopping Centre (1 hour stopover)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "NewmanToVillage",
+            "originLocation": {
+                "name": "Newman",
+                "locationType": "Newman",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:45",
+                            "note": "Return to Warrawandu from Newman Shopping Centre (after 1 hour stopover)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "Ob24ToAirport",
+            "originLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "15:35",
+                            "note": "OB24 Admin to Airport",
+                            "flight": {
+                                "flightNumber": "QF1089",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "15:35",
+                            "note": "OB24 Admin to Airport",
+                            "flight": {
+                                "flightNumber": "QF1089",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:35",
+                            "note": "OB24 Admin to Airport",
+                            "flight": {
+                                "flightNumber": "QF1827",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "12:35",
+                            "note": "OB24 Admin to Airport",
+                            "flight": {
+                                "flightNumber": "QF1825",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "VillageToJimblebarHub",
+            "originLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "destinationLocation": {
+                "name": "Jimblebar Hub",
+                "locationType": "JimblebarHub",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "To Jimblebar Hub",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "JimblebarHubToVillage",
+            "originLocation": {
+                "name": "Jimblebar Hub",
+                "locationType": "JimblebarHub",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "Jimblebar Hub to Warrawandu (MEM & N/S)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "18:10",
+                            "note": "Jimblebar Hub to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "Jimblebar Hub to Warrawandu (MEM & N/S)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "18:10",
+                            "note": "Jimblebar Hub to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "Jimblebar Hub to Warrawandu (MEM & N/S)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "18:10",
+                            "note": "Jimblebar Hub to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "Jimblebar Hub to Warrawandu (MEM & N/S)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "18:10",
+                            "note": "Jimblebar Hub to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "Jimblebar Hub to Warrawandu (MEM & N/S)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:10",
+                            "note": "Jimblebar Hub to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "Jimblebar Hub to Warrawandu (MEM & N/S)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:10",
+                            "note": "Jimblebar Hub to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "Jimblebar Hub to Warrawandu (MEM & N/S)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:10",
+                            "note": "Jimblebar Hub to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "JimblebarHubToAirport",
+            "originLocation": {
+                "name": "Jimblebar Hub",
+                "locationType": "JimblebarHub",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "16:30",
+                            "note": "Jimblebar Hub to Airport",
+                            "flight": {
+                                "flightNumber": "QF1089",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "Jimblebar Hub to Airport N/S",
+                            "flight": {
+                                "flightNumber": "VA1876",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "06:45",
+                            "note": "Jimblebar Hub to Airport N/S",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "14:30",
+                            "note": "Jimblebar Hub to Airport",
+                            "flight": {
+                                "flightNumber": "VA1892",
+                                "airline": "Virgin"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "15:30",
+                            "note": "Jimblebar Hub to Airport",
+                            "flight": {
+                                "flightNumber": "QF1089",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "Jimblebar Hub to Airport N/S",
+                            "flight": {
+                                "flightNumber": "QF1087",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 2,
+                            "departureTime": "14:30",
+                            "note": "Jimblebar Hub to Airport",
+                            "flight": {
+                                "flightNumber": "QF1101",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "15:30",
+                            "note": "Jimblebar Hub to Airport",
+                            "flight": {
+                                "flightNumber": "QF1089",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "15:30",
+                            "note": "Jimblebar Hub to Airport (1 x Via Ww Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "14:20",
+                            "note": "Jimblebar Hub to Airport (1 x Via Ww Only)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "VillageToOb25",
+            "originLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "destinationLocation": {
+                "name": "OB25",
+                "locationType": "OB25",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:00",
+                            "note": "Warrawandu to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 2,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to OB25 OHP & OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "Ob25ToVillage",
+            "originLocation": {
+                "name": "OB25",
+                "locationType": "OB25",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "16:30",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "16:35",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "OB25 OHP & OB25 MEM to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:00",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "OB25 OHP to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "Ob25ToOb25",
+            "originLocation": {
+                "name": "OB25",
+                "locationType": "OB25",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "OB25",
+                "locationType": "OB25",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "16:30",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:55",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:25",
+                            "note": "OB25 Admin to OB25 OHP",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "Ob24ToOb25",
+            "originLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "OB25",
+                "locationType": "OB25",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB24 Admin to OB25 OHP & OB25 Admin (D & A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB24 Admin to OB25 OHP & OB25 Admin (D & A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB24 Admin to OB25 OHP & OB25 Admin (D & A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB24 Admin to OB25 OHP & OB25 Admin (D & A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB24 Admin to OB25 OHP & OB25 Admin (D & A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB24 Admin to OB25 OHP & OB25 Admin (D & A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "OB24 Admin to OB25 OHP & OB25 Admin (D & A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "Ob25ToOb24",
+            "originLocation": {
+                "name": "OB25",
+                "locationType": "OB25",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "15:15",
+                            "note": "OB25 OHP to OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "15:20",
+                            "note": "OB25 Admin to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "15:15",
+                            "note": "OB25 OHP to OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "15:20",
+                            "note": "OB25 Admin to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:15",
+                            "note": "OB25 OHP to OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:20",
+                            "note": "OB25 Admin to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "12:15",
+                            "note": "OB25 OHP to OB25 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "12:20",
+                            "note": "OB25 Admin to OB24 Admin",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "AirportToOb25",
+            "originLocation": {
+                "name": "Airport",
+                "locationType": "Airport",
+                "latitude": -23.411332,
+                "longitude": 119.801491
+            },
+            "destinationLocation": {
+                "name": "OB25",
+                "locationType": "OB25",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1092",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1822",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1092",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "09:00",
+                            "note": "To OB24 Admin, OB25 Admin & OB25 via Kurra (wait 20 mins)",
+                            "flight": {
+                                "flightNumber": "QF1086",
+                                "airline": "Qantas"
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "VillageToLax",
+            "originLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "destinationLocation": {
+                "name": "LAX",
+                "locationType": "LAX",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "05:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "17:30",
+                            "note": "Warrawandu to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "LaxToVillage",
+            "originLocation": {
+                "name": "LAX",
+                "locationType": "LAX",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "Warrawandu Village",
+                "locationType": "Village",
+                "latitude": -23.3365,
+                "longitude": 119.9316
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "16:35",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        },
+                        {
+                            "number": 1,
+                            "departureTime": "18:30",
+                            "note": "LAX to Warrawandu",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "Ob24ToLax",
+            "originLocation": {
+                "name": "OB24",
+                "locationType": "OB24",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "LAX",
+                "locationType": "LAX",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "16:30",
+                            "note": "OB24 Admin to LAX",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": []
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": []
+                }
+            ],
+            "note": ""
+        },
+        {
+            "routeType": "JimblebarGatehouseToJimblebarHub",
+            "originLocation": {
+                "name": "Jimblebar Gatehouse",
+                "locationType": "JimblebarGatehouse",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "destinationLocation": {
+                "name": "Jimblebar Hub",
+                "locationType": "JimblebarHub",
+                "latitude": -23,
+                "longitude": 120
+            },
+            "weekdaySchedule": [
+                {
+                    "weekday": "Mon",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "JB Gatehouse to Jimblebar Hub (D&A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Tue",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "JB Gatehouse to Jimblebar Hub (D&A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Wed",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "JB Gatehouse to Jimblebar Hub (D&A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Thu",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "JB Gatehouse to Jimblebar Hub (D&A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Fri",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "JB Gatehouse to Jimblebar Hub (D&A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sat",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "JB Gatehouse to Jimblebar Hub (D&A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                },
+                {
+                    "weekday": "Sun",
+                    "weekdayRun": [
+                        {
+                            "number": 1,
+                            "departureTime": "06:15",
+                            "note": "JB Gatehouse to Jimblebar Hub (D&A Run)",
+                            "flight": {
+                                "flightNumber": "",
+                                "airline": ""
+                            },
+                            "hasDeparted": false,
+                            "isNextRun": false
+                        }
+                    ]
+                }
+            ],
+            "note": ""
+        }
+    ]
+}
