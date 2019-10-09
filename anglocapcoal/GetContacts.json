@@ -1,1 +1,23 @@
-{}
+{
+    "contact": [
+        {
+            "name": "reception",
+            "label": "Main Reception",
+            "openingHours": "6am to 8pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "(08) 9179 6300",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "adminwarrawandu@spotless.com.au",
+            "displayEmailAddress": true,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "reception-image-1", 
+            "iconClassName": ""
+        }       
+    ]
+}
