@@ -1,0 +1,26 @@
+{
+    "event": [               
+        {
+            "eventId": "EB3E8AD5-74CC-414C-BB45-B3A29794487B",
+            "name": "ladies-movie-night",
+            "title": "Ladies Movie Night",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-10-17",
+            "displayDate": "Thursday 17th of October",
+            "time": "7:30pm",
+            "location": "Warrawandu Oval",
+            "description": "Watch Bridesmaids on the big screen",
+            "details1": "Enjoy the movie with comfy bean bags and cold drinks in the candlelight",
+            "details2": "Additional wine and snacks are available for purchase at the Tavern. Raffles on sale - $5 per ticket for your chance to win a luxury hamper! All proceeds will be donated to the Breast Cancer Awareness Foundation",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "cinema-food-movie-theater-33129.jpg",
+            "imageClassName": "ladies-movie-night-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true
+        }       
+    ]
+}
