@@ -14,7 +14,10 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "reception-image-1", 
+            "iconClassName": ""
         },
         {
             "name": "security",
@@ -30,7 +33,10 @@
             "displaySubtitle": true,
             "displayMapButton": true,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "security-image-5", 
+            "iconClassName": ""
         },
         {
             "name": "bus-services",
@@ -46,7 +52,10 @@
             "displaySubtitle": false,
             "displayMapButton": false,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "bus-services-image-1", 
+            "iconClassName": ""
         }
     ]
 }
