@@ -21,7 +21,8 @@
             "imageClassName": "social-night-darts-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false
+            "isFeatured": false,
+            "hasMenu": false 
         },
         {
             "eventId": "3A55FFCB-DEB1-4667-A83B-59452B1B9CAC",
@@ -65,7 +66,8 @@
             "imageClassName": "ladies-movie-night-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": true
+            "isFeatured": true,
+            "hasMenu": false
         },        
         {
             "eventId": "CC7520E0-3896-4928-9CFF-D42E23D94D6B",
@@ -87,7 +89,8 @@
             "imageClassName": "social-night-pool-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false
+            "isFeatured": false,
+            "hasMenu": false
         },
         {
             "eventId": "9EFA9A6B-C8C6-48C6-BA38-AFC7F1B4BBDF",
@@ -109,7 +112,8 @@
             "imageClassName": "social-sport-soccer-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false
+            "isFeatured": false,
+            "hasMenu": false
         },
         {
             "eventId": "A7D7E2EF-9EAB-4026-91FC-81B51C3ABE7B",
@@ -131,7 +135,8 @@
             "imageClassName": "oktoberfest-night-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": true
+            "isFeatured": true,
+            "hasMenu": true
         },
         {
             "eventId": "93EF61BD-CDC0-4B80-9C3E-7F49AE9B874B",
@@ -153,7 +158,8 @@
             "imageClassName": "social-night-darts-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false
+            "isFeatured": false,
+            "hasMenu": false
         },
         {
             "eventId": "3A55FFCB-DEB1-4667-A83B-59452B1B9CAC",
@@ -175,7 +181,8 @@
             "imageClassName": "social-sport-cricket-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false
+            "isFeatured": false,
+            "hasMenu": false
         }
 
     ]
