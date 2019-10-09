@@ -20,7 +20,8 @@
             "imageClassName": "social-night-darts-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false
+            "isFeatured": false,
+            "hasMenu": false
         }     
        
     ]
