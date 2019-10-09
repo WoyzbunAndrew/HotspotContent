@@ -1,0 +1,49 @@
+{
+    "contact": [        
+        {
+            "name": "reception",
+            "label": "Reception",
+            "openingHours": "5am to 9pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "(07) 4985 7127",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "security",
+            "label": "Security",
+            "openingHours": "6pm to 6am",
+            "displayOpeningHours": true,
+            "phoneNumber": "0419 177 082",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "Call in the event of snake sightings",
+            "displaySubtitle": true,
+            "displayMapButton": false,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "maintenance",
+            "label": "Maintenance",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "1300 426 394",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        } 
+    ]
+}
