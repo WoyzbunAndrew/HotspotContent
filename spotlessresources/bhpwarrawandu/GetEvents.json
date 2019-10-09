@@ -1,5 +1,50 @@
 {
-    "event": [               
+    "event": [            
+        
+        {
+            "eventId": "93EF61BD-CDC0-4B80-9C3E-7F49AE9B874B",
+            "name": "social-night-darts",
+            "title": "Social Night",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-10-11",
+            "displayDate": "Friday 11th of October",
+            "time": "7pm",
+            "location": "The Jim (Tavern)",
+            "description": "Darts",
+            "details1": "Every Friday night there will be prizes to be won! See your HLC today!",
+            "details2": "",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "accuracy-accurate-arrow-262438.jpg",
+            "imageClassName": "social-night-darts-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false
+        },
+        {
+            "eventId": "3A55FFCB-DEB1-4667-A83B-59452B1B9CAC",
+            "name": "social-sport-cricket",
+            "title": "Social Sport",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-10-13",
+            "displayDate": "Sunday 13th of October",
+            "time": "7:15pm",
+            "location": "Multi-Purpose Court",
+            "description": "Cricket",
+            "details1": "The game starts at 7:15pm on the multi-purpose court right across from The Jim Tavern",
+            "details2": "",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "cricket-image-1.jpg",
+            "imageClassName": "social-sport-cricket-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false
+        },
         {
             "eventId": "EB3E8AD5-74CC-414C-BB45-B3A29794487B",
             "name": "ladies-movie-night",
