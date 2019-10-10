@@ -153,7 +153,7 @@
             "imageClassName": "",
             "iconClassName": "",
             "detail": {
-                "intro": "Authorised vehicles only",
+                "intro": "Authorised Vehicles Only",
                 "listTitle": "Things to Know",
                 "listItem1": "All vehicles must be reverse-parked in the designated parking areas",
                 "listItem2": "",
@@ -180,13 +180,40 @@
             "imageClassName": "",
             "iconClassName": "",
             "detail": {
-                "intro": "Personalised and quality healthcare for you",
+                "intro": "Personalised and Quality Healthcare",
                 "listTitle": "Things to Know",
                 "listItem1": "Medics are available to attend to work and non-work related medical matters",
                 "listItem2": "Free of charge",
                 "listItem3": ""  
             },
             "displayPosition": 7,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },        
+        {
+            "amenityId": "3EE86C65-1E3E-4456-9E14-8C475AF16975",
+            "name": "housekeeping-service",
+            "title": "Housekeeping Service",
+            "openingHours": "6am to 7:30am - 4:30pm to 7:30pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "Night Shift Housekeeping Services",
+                "listTitle": "Things to Know",
+                "listItem1": "Display a nightshift magnet (available from reception) on your front door when you commence your shift",
+                "listItem2": "Upon completion of your shift (or departure for RNR) remove magnet from your front door",
+                "listItem3": "Contact reception if you require housekeeping outside of the displayed hours"  
+            },
+            "displayPosition": 8,
             "uxIsSelected": false,
             "uxIsDisabled": false
         }
