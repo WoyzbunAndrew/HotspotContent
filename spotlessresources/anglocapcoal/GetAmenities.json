@@ -1,0 +1,114 @@
+{
+    "amenity": [         
+        {
+            "name": "restaurant",
+            "label": "Dining Room",
+            "openingHours": "4am to 10:30am - 4pm to 10:30pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "detail": {
+                "intro": "The Dining Room serves breakfast and dinner",
+                "listTitle": "Dress Standards",
+                "listItem1": "The minimum dress standard is thongs, shorts and a singlet",
+                "listItem2": "No dirty work clothes or work boots allowed",
+                "listItem3": ""
+            },
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "recreation",
+            "label": "Recreation Room",
+            "openingHours": "24/7 (10pm noise curfew)",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "detail": {
+                "intro": "A communal area for group functions",
+                "listTitle": "Things to Know",
+                "listItem1": "Includes TV, Pool Table & Tea/Coffee Facilities",
+                "listItem2": "The minimum dress standard is thongs, shorts and a singlet",
+                "listItem3": "No dirty work clothes or work boots allowed"
+            },
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "locker",
+            "label": "Locker Room",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "Own padlock required",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "tennis",
+            "label": "Tennis Court",
+            "openingHours": "Open until 10pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "Bookings via reception",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "oasis",
+            "label": "Oasis Room",
+            "openingHours": "As required",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "detail": {
+                "intro": "Ideal for functions & training",
+                "listTitle": "Things to Know",
+                "listItem1": "Bookings via reception",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        }      
+    ]
+}
