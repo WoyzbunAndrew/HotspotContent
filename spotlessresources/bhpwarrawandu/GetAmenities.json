@@ -238,9 +238,13 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
-            "mapMarker": {},
+            "mapMarker": {
+                "showMarker": true,                          
+                "latitude": -23.334212,
+                "longitude": 119.932031
+            },
             "imageClassName": "",
-            "iconClassName": "",
+            "iconClassName": "shopping_cart",
             "detail": {
                 "intro": "",
                 "listTitle": "Stocks a Range of Everyday Items",
