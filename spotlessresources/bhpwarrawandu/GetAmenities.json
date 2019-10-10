@@ -23,7 +23,7 @@
                 "listItem2": "Post-shift uniforms and work boots are not permitted",
                 "listItem3": ""
             },
-            "displayPosition": 1,
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
@@ -50,7 +50,7 @@
                 "listItem2": "Take-away sales cannot be consumed in the tavern",
                 "listItem3": "ATM & EFTPOS available"  
             },
-            "displayPosition": 2,
+            "displayPosition": 1,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
