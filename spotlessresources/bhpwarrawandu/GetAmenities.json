@@ -180,9 +180,13 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
-            "mapMarker": {},
+            "mapMarker": {
+                "showMarker": true,                          
+                "latitude": -23.333926,
+                "longitude": 119.932036
+            },
             "imageClassName": "",
-            "iconClassName": "",
+            "iconClassName": "local_hospital",
             "detail": {
                 "intro": "",
                 "listTitle": "Things to Know",
