@@ -3,7 +3,7 @@
         {
             "amenityId": "210DF016-1CF7-45A4-8C84-C789FED2D53F",
             "name": "restaurant",
-            "label": "Restaurant",
+            "title": "Restaurant",
             "openingHours": "4am to 8am - 4pm to 9pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -23,13 +23,14 @@
                 "listItem2": "Post-shift uniforms and work boots are not permitted",
                 "listItem3": ""
             },
+            "displayPosition": 1,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "amenityId": "C2395D4F-2979-4C32-9330-7E657C3FAF3C",
             "name": "tavern",
-            "label": "The Jim (Tavern)",
+            "title": "The Jim (Tavern)",
             "openingHours": "6:30am to 8am - 5:30pm to 7:30pm - 8pm to 9pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -49,13 +50,14 @@
                 "listItem2": "Take-away sales cannot be consumed in the tavern",
                 "listItem3": "ATM & EFTPOS available"  
             },
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "amenityId": "2E7FEF9C-7F05-4A89-B602-91BA14AC28C2",
             "name": "gymnasium",
-            "label": "Gymnasium and Sports Centre",
+            "title": "Gymnasium and Sports Centre",
             "openingHours": "24/7",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -75,13 +77,14 @@
                 "listItem2": "Induction required",
                 "listItem3": "Cleaning is scheduled between 9am and 10am" 
             },
+            "displayPosition": 3,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "amenityId": "3B5CA8D6-C3D4-468C-8696-595E699CB2B0",
             "name": "pool",
-            "label": "Swimming Pool",
+            "title": "Swimming Pool",
             "openingHours": "3am to 9:30pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -101,13 +104,14 @@
                 "listItem2": "",
                 "listItem3": ""  
             },
+            "displayPosition": 4,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "amenityId": "1C0B7299-4E93-43A5-86D2-EACB57887DFD",
             "name": "golf",
-            "label": "Golfing Facilities",
+            "title": "Golfing Facilities",
             "openingHours": "",
             "displayOpeningHours": false,
             "phoneNumber": "",
@@ -127,6 +131,7 @@
                 "listItem2": "",
                 "listItem3": ""  
             },
+            "displayPosition": 5,
             "uxIsSelected": false,
             "uxIsDisabled": false
         }        
