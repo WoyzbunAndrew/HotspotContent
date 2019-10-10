@@ -134,6 +134,61 @@
             "displayPosition": 5,
             "uxIsSelected": false,
             "uxIsDisabled": false
-        }        
+        },
+        
+        {
+            "amenityId": "82469A16-D135-492A-AC8A-915D3F9229D8",
+            "name": "car-park",
+            "title": "Car Park",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "Authorised vehicles only",
+                "listTitle": "Things to Know",
+                "listItem1": "All vehicles must be reverse-parked in the designated parking areas",
+                "listItem2": "",
+                "listItem3": ""  
+            },
+            "displayPosition": 6,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "amenityId": "91C8061F-B48C-4F88-93B9-0470B45FCF64",
+            "name": "medical-centre",
+            "title": "Medical Centre",
+            "openingHours": "5:30am to 7:30am - 3:30pm to 5:30pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "Personalised and quality healthcare for you",
+                "listTitle": "Things to Know",
+                "listItem1": "Medics are available to attend to work and non-work related medical matters",
+                "listItem2": "Free of charge",
+                "listItem3": ""  
+            },
+            "displayPosition": 7,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        }
     ]
 }
