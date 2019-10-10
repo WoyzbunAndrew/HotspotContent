@@ -211,9 +211,63 @@
                 "listTitle": "Things to Know",
                 "listItem1": "Display a nightshift magnet (available from reception) on your front door when you commence your shift",
                 "listItem2": "Upon completion of your shift (or departure for RNR) remove magnet from your front door",
-                "listItem3": "Contact reception if you require housekeeping outside of the displayed hours"  
+                "listItem3": "Contact reception if you require housekeeping outside of the hours displayed below"  
             },
             "displayPosition": 8,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "amenityId": "EA4800AB-9888-4593-85B7-600224D03CD9",
+            "name": "retail-outlet",
+            "title": "Retail Outlet",
+            "openingHours": "4:30am to 9pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "Convenience Store",
+                "listTitle": "Stocks a Range of Everyday Items",
+                "listItem1": "Confectionery",
+                "listItem2": "Personal goods",
+                "listItem3": "Located in the Admin Building"  
+            },
+            "displayPosition": 9,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "amenityId": "0FF342E7-D2F8-4370-8093-0ACC380EE3F3",
+            "name": "in-room-communication",
+            "title": "In Room Communication & Wifi",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "1800 115 371",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "Refer to instruction brochure in your room (also available from reception)",
+                "listItem2": "Phone & internet access available throughout the village via Swift",
+                "listItem3": "Call the number shown below for further assistance"  
+            },
+            "displayPosition": 10,
             "uxIsSelected": false,
             "uxIsDisabled": false
         }
