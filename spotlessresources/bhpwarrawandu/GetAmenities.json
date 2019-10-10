@@ -149,9 +149,13 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "",
-            "iconClassName": "",
+            "mapMarker": {
+                "showMarker": true,                          
+                "latitude": -23.334545,
+                "longitude": 119.931265
+            },
+            "imageClassName": "car-park-image-1",
+            "iconClassName": "directions_car",
             "detail": {
                 "intro": "",
                 "listTitle": "Things to Know",
