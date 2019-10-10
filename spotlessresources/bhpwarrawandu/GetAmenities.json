@@ -182,8 +182,8 @@
             "displayMapButton": true,
             "mapMarker": {
                 "showMarker": true,                          
-                "latitude": -23.333926,
-                "longitude": 119.932036
+                "latitude": -23.334005,
+                "longitude": 119.932031
             },
             "imageClassName": "",
             "iconClassName": "local_hospital",
