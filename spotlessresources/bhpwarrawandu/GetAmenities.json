@@ -153,10 +153,10 @@
             "imageClassName": "",
             "iconClassName": "",
             "detail": {
-                "intro": "Authorised Vehicles Only",
+                "intro": "",
                 "listTitle": "Things to Know",
-                "listItem1": "All vehicles must be reverse-parked in the designated parking areas",
-                "listItem2": "",
+                "listItem1": "Authorised vehicles only",
+                "listItem2": "All vehicles must be reverse-parked in the designated parking areas",
                 "listItem3": ""  
             },
             "displayPosition": 6,
@@ -180,7 +180,7 @@
             "imageClassName": "",
             "iconClassName": "",
             "detail": {
-                "intro": "Personalised and Quality Healthcare",
+                "intro": "",
                 "listTitle": "Things to Know",
                 "listItem1": "Medics are available to attend to work and non-work related medical matters",
                 "listItem2": "Free of charge",
@@ -193,7 +193,7 @@
         {
             "amenityId": "3EE86C65-1E3E-4456-9E14-8C475AF16975",
             "name": "housekeeping-service",
-            "title": "Housekeeping Service",
+            "title": "Night Shift Housekeeping Service",
             "openingHours": "6am to 7:30am - 4:30pm to 7:30pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -207,7 +207,7 @@
             "imageClassName": "",
             "iconClassName": "",
             "detail": {
-                "intro": "Night Shift Housekeeping Services",
+                "intro": "",
                 "listTitle": "Things to Know",
                 "listItem1": "Display a nightshift magnet (available from reception) on your front door when you commence your shift",
                 "listItem2": "Upon completion of your shift (or departure for RNR) remove magnet from your front door",
@@ -234,7 +234,7 @@
             "imageClassName": "",
             "iconClassName": "",
             "detail": {
-                "intro": "Convenience Store",
+                "intro": "",
                 "listTitle": "Stocks a Range of Everyday Items",
                 "listItem1": "Confectionery",
                 "listItem2": "Personal goods",
