@@ -2,7 +2,7 @@
     "contact": [        
         {
             "name": "reception",
-            "label": "Reception",
+            "title": "Reception",
             "openingHours": "5am to 9pm",
             "displayOpeningHours": true,
             "phoneNumber": "(07) 4985 7127",
@@ -12,12 +12,13 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
+            "displayPosition": 1,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "name": "security",
-            "label": "Security",
+            "title": "Security",
             "openingHours": "6pm to 6am",
             "displayOpeningHours": true,
             "phoneNumber": "0419 177 082",
@@ -27,12 +28,13 @@
             "subtitle": "Call in the event of snake sightings",
             "displaySubtitle": true,
             "displayMapButton": false,
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "name": "maintenance",
-            "label": "Maintenance",
+            "title": "Maintenance",
             "openingHours": "24/7",
             "displayOpeningHours": true,
             "phoneNumber": "1300 426 394",
@@ -42,6 +44,7 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": false,
+            "displayPosition": 3,
             "uxIsSelected": false,
             "uxIsDisabled": false
         } 
