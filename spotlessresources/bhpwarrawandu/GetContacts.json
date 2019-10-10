@@ -2,7 +2,7 @@
     "contact": [
         {
             "name": "reception",
-            "label": "Main Reception",
+            "title": "Main Reception",
             "openingHours": "6am to 8pm",
             "displayOpeningHours": true,
             "phoneNumber": "(08) 9179 6300",
@@ -17,11 +17,12 @@
             "uxIsDisabled": false,
             "mapMarker": {},    
             "imageClassName": "reception-image-1", 
-            "iconClassName": ""
+            "iconClassName": "",
+            "displayPosition": 1
         },
         {
             "name": "security",
-            "label": "Village Security & Room Lockouts",
+            "title": "Village Security & Room Lockouts",
             "openingHours": "24/7",
             "displayOpeningHours": true,
             "phoneNumber": "0455 844 738",
@@ -36,11 +37,12 @@
             "uxIsDisabled": false,
             "mapMarker": {},    
             "imageClassName": "security-image-5", 
-            "iconClassName": ""
+            "iconClassName": "",
+            "displayPosition": 2
         },
         {
             "name": "bus-services",
-            "label": "Bus Services Hotline",
+            "title": "Bus Services Hotline",
             "openingHours": "",
             "displayOpeningHours": false,
             "phoneNumber": "0429 491 550",
@@ -55,7 +57,8 @@
             "uxIsDisabled": false,
             "mapMarker": {},    
             "imageClassName": "bus-services-image-1", 
-            "iconClassName": ""
+            "iconClassName": "",
+            "displayPosition": 3
         }
     ]
 }
