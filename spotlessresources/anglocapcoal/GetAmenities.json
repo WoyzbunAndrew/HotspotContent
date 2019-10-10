@@ -2,7 +2,7 @@
     "amenity": [         
         {
             "name": "restaurant",
-            "label": "Dining Room",
+            "title": "Dining Room",
             "openingHours": "4am to 10:30am - 4pm to 10:30pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -22,12 +22,13 @@
                 "listItem2": "No dirty work clothes or work boots allowed",
                 "listItem3": ""
             },
+            "displayPosition": 1,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "name": "recreation",
-            "label": "Recreation Room",
+            "title": "Recreation Room",
             "openingHours": "24/7 (10pm noise curfew)",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -47,12 +48,13 @@
                 "listItem2": "The minimum dress standard is thongs, shorts and a singlet",
                 "listItem3": "No dirty work clothes or work boots allowed"
             },
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "name": "locker",
-            "label": "Locker Room",
+            "title": "Locker Room",
             "openingHours": "24/7",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -72,12 +74,13 @@
                 "listItem2": "",
                 "listItem3": ""
             },
+            "displayPosition": 3,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "name": "tennis",
-            "label": "Tennis Court",
+            "title": "Tennis Court",
             "openingHours": "Open until 10pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -97,12 +100,13 @@
                 "listItem2": "",
                 "listItem3": ""
             },
+            "displayPosition": 4,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
         {
             "name": "oasis",
-            "label": "Oasis Room",
+            "title": "Oasis Room",
             "openingHours": "As required",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -122,6 +126,7 @@
                 "listItem2": "",
                 "listItem3": ""
             },
+            "displayPosition": 5,
             "uxIsSelected": false,
             "uxIsDisabled": false
         }      
