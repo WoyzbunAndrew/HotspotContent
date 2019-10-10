@@ -19,10 +19,9 @@
             "detail": {
                 "intro": "The restaurant serves breakfast, lunch and dinner",
                 "listTitle": "Minimum Dress Standards",
-                "listItem": [                                
-                    "T-shirt with sleeves, shorts and thongs",                            
-                    "Post-shift uniforms and work boots are not permitted"
-                ] 
+                "listItem1": "T-shirt with sleeves, shorts and thongs",
+                "listItem2": "Post-shift uniforms and work boots are not permitted",
+                "listItem3": ""
             },
             "uxIsSelected": false,
             "uxIsDisabled": false
@@ -46,11 +45,9 @@
             "detail": {
                 "intro": "Includes a large beer garden",
                 "listTitle": "Things to Know",
-                "listItem": [                                
-                    "Smoking permitted in designated areas",
-                    "Take-away sales cannot be consumed in the tavern",
-                    "ATM & EFTPOS available"
-                ] 
+                "listItem1": "Smoking permitted in designated areas",
+                "listItem2": "Take-away sales cannot be consumed in the tavern",
+                "listItem3": "ATM & EFTPOS available"  
             },
             "uxIsSelected": false,
             "uxIsDisabled": false
@@ -74,11 +71,9 @@
             "detail": {
                 "intro": "The Sports Centre has indoor soccer, cricket, squash, beach volleyball, tennis, basketball and netball courts",
                 "listTitle": "Things to Know",
-                "listItem": [  
-                    "The Health & Lifestyle coaches run a variety of classes mornings and evenings, check the weekly newsletter for the current fitness timetable",
-                    "Induction required",
-                    "Cleaning is scheduled between 9am and 10am"                
-                ] 
+                "listItem1": "The Health & Lifestyle coaches run a variety of classes mornings and evenings, check the weekly newsletter for the current fitness timetable",
+                "listItem2": "Induction required",
+                "listItem3": "Cleaning is scheduled between 9am and 10am" 
             },
             "uxIsSelected": false,
             "uxIsDisabled": false
@@ -102,7 +97,9 @@
             "detail": {
                 "intro": "24m swimming pool available for recreational or fitness purposes",
                 "listTitle": "",
-                "listItem": []  
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""  
             },
             "uxIsSelected": false,
             "uxIsDisabled": false
@@ -126,7 +123,9 @@
             "detail": {
                 "intro": "Putting Green and Driving Range",
                 "listTitle": "",
-                "listItem": []  
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""  
             },
             "uxIsSelected": false,
             "uxIsDisabled": false
