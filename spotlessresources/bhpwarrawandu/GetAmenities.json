@@ -85,7 +85,7 @@
             "amenityId": "3B5CA8D6-C3D4-468C-8696-595E699CB2B0",
             "name": "pool",
             "title": "Swimming Pool",
-            "openingHours": "3am to 9:30pm",
+            "openingHours": "3am to 9pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
             "displayPhoneNumber": false,
