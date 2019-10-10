@@ -13,6 +13,9 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "restaurant-image-2",
+            "iconClassName": "local_dining",
             "detail": {
                 "intro": "The restaurant serves breakfast, lunch and dinner",
                 "listTitle": "Minimum Dress Standards",
@@ -36,6 +39,9 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "tavern-image-2",
+            "iconClassName": "",
             "detail": {
                 "intro": "Includes a large beer garden",
                 "listTitle": "Things to Know",
@@ -59,6 +65,9 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "gymnasium-image-1",
+            "iconClassName": "fitness_center",
             "detail": {
                 "intro": "The Sports Centre has indoor soccer, cricket, squash, beach volleyball, tennis, basketball and netball courts",
                 "listTitle": "Things to Know",
@@ -82,6 +91,9 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "pool-image-1",
+            "iconClassName": "pool",
             "detail": {
                 "intro": "24m swimming pool available for recreational or fitness purposes",
                 "listTitle": "",
@@ -105,6 +117,9 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "golf-image-1",
+            "iconClassName": "golf_course",
             "detail": {
                 "intro": "Putting Green and Driving Range",
                 "listTitle": "",
