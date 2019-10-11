@@ -52,7 +52,86 @@
             "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false
+        },
+        {
+            "name": "theatre",
+            "title": "Theatre Room",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "DVD Selection",
+                "listItem2": "LCD Flat Screen TV",
+                "listItem3": "Lounge Chairs"
+            },
+            "displayPosition": 3,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "bbq",
+            "title": "BBQ Deck Area",
+            "openingHours": "3am to 10pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "No Noise after 10pm",
+                "listItem2": "BBQ/Pizza packs can be ordered from reception 24 hours prior",
+                "listItem3": ""
+            },
+            "displayPosition": 4,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+      {
+            "name": "kiosk",
+            "title": "Kiosk",
+            "openingHours": "6am to 10pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "Convenience Store",
+                "listTitle": "",
+                "listItem1": "Small grocery line",
+                "listItem2": "EFTPOS available",
+                "listItem3": ""
+            },
+            "displayPosition": 5,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
         }
+        
     
      ]
 }
