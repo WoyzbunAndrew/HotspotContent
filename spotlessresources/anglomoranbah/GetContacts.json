@@ -1,5 +1,21 @@
 {
     "contact": [   
+        {
+            "name": "reception",
+            "title": "Reception",
+            "openingHours": "6am to 10pm (Daily)",
+            "displayOpeningHours": true,
+            "phoneNumber": "0494 184 000",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayPosition": 1,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        }
     
     ]
 }
