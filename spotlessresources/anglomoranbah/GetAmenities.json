@@ -1,6 +1,32 @@
   
 {
     "amenity": [ 
+        {
+            "name": "restaurant",
+            "title": "Dining Room",
+            "openingHours": "3am to 10am & 3pm to 11pm (daily) - 12pm to 1pm (Friday only)",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "The Dining Room serves breakfast, lunch and dinner",
+                "listTitle": "Minimum Dress Standards",
+                "listItem1": "No dirty boots",
+                "listItem2": "No singlets, tank tops, sleeveless attire, bare feet or dirty work clothes allowed",
+                "listItem3": "No hot cribbing"
+            },
+            "displayPosition": 1,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        }
     
      ]
 }
