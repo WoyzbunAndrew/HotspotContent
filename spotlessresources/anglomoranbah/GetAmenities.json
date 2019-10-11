@@ -4,7 +4,7 @@
         {
             "name": "restaurant",
             "title": "Dining Room",
-            "openingHours": "3am to 10am & 3pm to 11pm (daily) - 12pm to 1pm (Friday only)",
+            "openingHours": "3am to 10am & 3pm to 11pm (Daily) - 12pm to 1pm (Friday only)",
             "displayOpeningHours": true,
             "phoneNumber": "",
             "displayPhoneNumber": false,
@@ -24,6 +24,32 @@
                 "listItem3": "No hot cribbing"
             },
             "displayPosition": 1,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "recreation",
+            "title": "Recreation Room",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "Includes Pool Tables, Ping Pong Table & Darts",
+                "listItem2": "Tea/Coffee Facilities",
+                "listItem3": ""
+            },
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false
         }
