@@ -1,5 +1,27 @@
 {
     "event": [  
-    
+        {
+            "eventId": "BE8EE9F0-F388-42E3-B416-CDB4227EF9D5",
+            "name": "halloween-night",
+            "title": "Halloween Night",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-10-31",
+            "displayDate": "Thursday 31st of October",
+            "time": "From 3pm",
+            "location": "Dining Hall",
+            "description": "Dust off your broomsticks and have a fang-tastic night!",
+            "details1": "Halloween originated with the ancient Celtic festival of Samhain, when people would light bonfires and wear costumes to ward off ghosts. Over time, Halloween evolved into a day of activities like trick-or-treat, jack-o-latern carving, festive gatherings, donning costumes and eating sweet treats.",
+            "details2": "The Chambers of Horrors (Dining Hall) will be opened for the night. Lose yourself in creepy crawly dishes that you will never forget for the rest of your life...",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "halloween-image-1.jpg",
+            "imageClassName": "halloween-image-1",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true,
+            "hasMenu": true
+        }  
     ]
 }
