@@ -15,6 +15,38 @@
             "displayPosition": 1,
             "uxIsSelected": false,
             "uxIsDisabled": false
+        },
+        {
+            "name": "maintenance",
+            "title": "Maintenance",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "1300 426 394",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "Report any faults within rooms or village facilities",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayPosition": 2,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "security",
+            "title": "Security",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "0418 736 305",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "Lock outs, Noise complaints, 24-hour First Aid & Emergency Control",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayPosition": 3,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
         }
     
     ]
