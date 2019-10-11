@@ -105,7 +105,7 @@
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
-      {
+        {
             "name": "kiosk",
             "title": "Kiosk",
             "openingHours": "6am to 10pm",
@@ -128,6 +128,32 @@
                 "listItem3": ""
             },
             "displayPosition": 5,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        },
+        {
+            "name": "gymnasium",
+            "title": "Gymnasium",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "Bring your own towel",
+                "listItem2": "Induction required",
+                "listItem3": ""
+            },
+            "displayPosition": 6,
             "uxIsSelected": false,
             "uxIsDisabled": false
         }
