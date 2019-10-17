@@ -1,6 +1,26 @@
 {
     "contact": [   
         {
+            "name": "reception",
+            "title": "Reception",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "(08) 9338 6600",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "reception-image-1", 
+            "iconClassName": "",
+            "displayPosition": 1
+        },
+        {
             "name": "it-helpdesk",
             "title": "IT Helpdesk",
             "openingHours": "",
@@ -18,7 +38,7 @@
             "mapMarker": {},    
             "imageClassName": "it-helpdesk-image-1", 
             "iconClassName": "",
-            "displayPosition": 1
+            "displayPosition": 2
         },
         {
             "name": "security",
@@ -38,7 +58,7 @@
             "mapMarker": {},    
             "imageClassName": "security-image-5", 
             "iconClassName": "",
-            "displayPosition": 2
+            "displayPosition": 3
         }
     ]
 }
