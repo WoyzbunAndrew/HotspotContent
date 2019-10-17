@@ -17,7 +17,7 @@
             "imageClassName": "gymnasium-image-1",
             "iconClassName": "",
             "detail": {
-                "intro": "Surge Fitness (Level 3, King Square 3)",
+                "intro": "",
                 "listTitle": "",
                 "listItem1": "",
                 "listItem2": "",
@@ -25,7 +25,9 @@
             },
             "displayPosition": 1,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "displayLocation": true,
+            "location": "Surge Fitness (Level 3, King Square 3)"
         },
         {
             "name": "child-care",
