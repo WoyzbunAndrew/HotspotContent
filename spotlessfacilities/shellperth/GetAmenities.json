@@ -10,7 +10,7 @@
             "displayPhoneNumber": false,
             "emailAddress": "",
             "displayEmailAddress": false,
-            "subtitle": "Surge Fitness, Level 3, King Square 3",
+            "subtitle": "Surge Fitness (Level 3, King Square 3)",
             "displaySubtitle": true,
             "displayMapButton": false,
             "mapMarker": {},
@@ -26,6 +26,32 @@
             "displayPosition": 1,
             "uxIsSelected": false,
             "uxIsDisabled": false
-        }       
+        },
+        {
+            "name": "child-care",
+            "title": "Child Care",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "Nida Early School (Level 2, King Square 3)",
+            "displaySubtitle": true,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 2,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        }      
      ]
 }
