@@ -92,7 +92,7 @@
             "displaySubtitle": true,
             "displayMapButton": false,
             "mapMarker": {},
-            "imageClassName": "wellness-image-1 ",
+            "imageClassName": "wellness-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "Level 1 in Health Suite",
