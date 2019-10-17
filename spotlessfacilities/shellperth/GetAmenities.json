@@ -15,7 +15,7 @@
             "displayMapButton": false,
             "mapMarker": {},
             "imageClassName": "",
-            "iconClassName": "",
+            "iconClassName": "gymnasium-image-1",
             "detail": {
                 "intro": "Surge Fitness (Level 3, King Square 3)",
                 "listTitle": "",
@@ -41,7 +41,7 @@
             "displayMapButton": false,
             "mapMarker": {},
             "imageClassName": "",
-            "iconClassName": "",
+            "iconClassName": "childcare-image-1",
             "detail": {
                 "intro": "Nida Early School (Level 2, King Square 3)",
                 "listTitle": "",
