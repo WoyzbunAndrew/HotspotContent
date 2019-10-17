@@ -45,7 +45,7 @@
             "imageClassName": "childcare-image-1",
             "iconClassName": "",
             "detail": {
-                "intro": "Nida Early School (Level 2, King Square 3)",
+                "intro": "",
                 "listTitle": "",
                 "listItem1": "",
                 "listItem2": "",
@@ -53,7 +53,9 @@
             },
             "displayPosition": 2,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "displayLocation": true,
+            "location": "Nida Early School (Level 2, King Square 3)"
         },
         {
             "name": "medical-centre",
@@ -71,7 +73,7 @@
             "imageClassName": "medical-image-1",
             "iconClassName": "",
             "detail": {
-                "intro": "Level 1",
+                "intro": "",
                 "listTitle": "",
                 "listItem1": "",
                 "listItem2": "",
@@ -79,7 +81,9 @@
             },
             "displayPosition": 3,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "displayLocation": true,
+            "location": "Level 1"
          },
          {
             "name": "wellness-room",
@@ -97,7 +101,7 @@
             "imageClassName": "wellness-image-1",
             "iconClassName": "",
             "detail": {
-                "intro": "Level 1 in Health Suite",
+                "intro": "",
                 "listTitle": "",
                 "listItem1": "",
                 "listItem2": "",
@@ -105,7 +109,9 @@
             },
             "displayPosition": 4,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "displayLocation": true,
+            "location": "Level 1 in Health Suite"
          },
          {
             "name": "oasis",
@@ -123,7 +129,7 @@
             "imageClassName": "meeting-image-1",
             "iconClassName": "",
             "detail": {
-                "intro": "Level 1 and Level 11",
+                "intro": "",
                 "listTitle": "",
                 "listItem1": "",
                 "listItem2": "",
@@ -131,7 +137,9 @@
             },
             "displayPosition": 5,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "displayLocation": true,
+            "location": "Level 1 and Level 11"
          },
          {
             "name": "reflection-room",
@@ -149,7 +157,7 @@
             "imageClassName": "reflection-image-1",
             "iconClassName": "",
             "detail": {
-                "intro": "Level 1",
+                "intro": "",
                 "listTitle": "",
                 "listItem1": "",
                 "listItem2": "",
@@ -157,7 +165,9 @@
             },
             "displayPosition": 6,
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "displayLocation": true,
+            "location": "Level 1"
          }      
      ]
 }
