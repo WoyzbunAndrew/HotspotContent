@@ -52,6 +52,34 @@
             "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false
-        }      
+        },
+        {
+            "name": "medical-centre",
+            "title": "Health Suite & Medical Staff",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": true,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "medical-image-1 ",
+            "iconClassName": "",
+            "detail": {
+                "intro": "Level 1",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 3,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+         } 
+      
+      
      ]
 }
