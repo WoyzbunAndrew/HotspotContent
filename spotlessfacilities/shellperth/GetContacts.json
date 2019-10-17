@@ -32,7 +32,7 @@
             "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
-            "displayMapButton": true,
+            "displayMapButton": false,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "mapMarker": {},    
