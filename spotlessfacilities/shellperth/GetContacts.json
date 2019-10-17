@@ -1,20 +1,44 @@
 {
     "contact": [   
         {
-            "name": "reception",
-            "title": "Reception",
-            "openingHours": "6am to 10pm (Daily)",
-            "displayOpeningHours": true,
-            "phoneNumber": "0494 184 000",
+            "name": "it-helpdesk",
+            "title": "IT Helpdesk",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "1800 074 264",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "http://self-help.shell.com/?webchat",
+            "displayEmailAddress": true,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "reception-image-1", 
+            "iconClassName": "",
+            "displayPosition": 1
+        },
+        {
+            "name": "security",
+            "title": "Shell Australia Security",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "0419 766 309",
+            "secondaryPhoneNumber": "",
             "displayPhoneNumber": true,
             "emailAddress": "",
             "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
-            "displayPosition": 1,
             "uxIsSelected": false,
-            "uxIsDisabled": false
-        }    
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "security-image-5", 
+            "iconClassName": "",
+            "displayPosition": 2
+        }
     ]
 }
