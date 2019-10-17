@@ -132,7 +132,7 @@
             "uxIsDisabled": false
          },
          {
-            "name": "medical-centre",
+            "name": "reflection-room",
             "title": "Reflection Room",
             "openingHours": "",
             "displayOpeningHours": false,
@@ -144,7 +144,7 @@
             "displaySubtitle": true,
             "displayMapButton": false,
             "mapMarker": {},
-            "imageClassName": "medical-image-1 ",
+            "imageClassName": "reflection-image-1 ",
             "iconClassName": "",
             "detail": {
                 "intro": "Level 1",
