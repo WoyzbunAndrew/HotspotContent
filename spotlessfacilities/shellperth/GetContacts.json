@@ -18,6 +18,13 @@
             "mapMarker": {},    
             "imageClassName": "reception-image-1", 
             "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
             "displayPosition": 1
         },
         {
@@ -28,8 +35,8 @@
             "phoneNumber": "1800 074 264",
             "secondaryPhoneNumber": "",
             "displayPhoneNumber": true,
-            "emailAddress": "http://self-help.shell.com/?webchat",
-            "displayEmailAddress": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": false,            
@@ -38,6 +45,13 @@
             "mapMarker": {},    
             "imageClassName": "it-helpdesk-image-1", 
             "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Details",
+                "listItem1": "Lync Entry: IT Service Desks - Australia",
+                "listItem2": "Webchat: http://self-help.shell.com/?webchat",
+                "listItem3": "Online Coaching: http://askit.shell.com/home.aspx"
+            },
             "displayPosition": 2
         },
         {
@@ -58,6 +72,13 @@
             "mapMarker": {},    
             "imageClassName": "security-image-5", 
             "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
             "displayPosition": 3
         }
     ]
