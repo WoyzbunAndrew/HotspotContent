@@ -20,7 +20,7 @@
             "imageClassName": "social-sport-basketball-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": true
+            "isFeatured": false
         }  
     ]
 }
