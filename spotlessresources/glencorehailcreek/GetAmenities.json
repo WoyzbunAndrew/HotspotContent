@@ -111,6 +111,34 @@
             "uxIsDisabled": false,
             "displayLocation": false,
             "location": ""
+        },
+        {
+            "name": "pool",
+            "title": "Swimming Pool",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "pool-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "Glass free zone",
+                "listItem2": "No smoking",
+                "listItem3": "No alcohol"
+            },
+            "displayPosition": 5,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
         }
     ]
 }
