@@ -53,6 +53,33 @@
                 "listItem3": ""
             },
             "displayPosition": 2
+        },
+        {
+            "name": "paramedic",
+            "title": "Paramedic",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "0429 876 972",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "medical-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 3
         }
     ]
 }
