@@ -9,7 +9,7 @@
             "secondaryPhoneNumber": "0439 794 293",
             "displayPhoneNumber": true,
             "emailAddress": "",
-            "displayEmailAddress": false,
+            "displayEmailAddress": true,
             "subtitle": "Check in prior to 8:30pm",
             "displaySubtitle": true,
             "displayMapButton": false,            
