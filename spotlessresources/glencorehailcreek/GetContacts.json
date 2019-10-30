@@ -26,6 +26,33 @@
                 "listItem3": ""
             },
             "displayPosition": 1
+        },
+        {
+            "name": "maintenance",
+            "title": "Maintenance",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "1300 426 394",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "Report any faults within rooms or village facilities",
+            "displaySubtitle": true,
+            "displayMapButton": false,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "maintenance-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 2
         }
     ]
 }
