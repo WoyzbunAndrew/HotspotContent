@@ -1,6 +1,34 @@
 {
     "amenity": [
         {
+            "name": "restaurant",
+            "title": "Dining Room",
+            "openingHours": "4:30am to 8:30am - 4:30pm - 8:30pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "restaurant-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "No singlets & dirty work clothes & gym attire",
+                "listItem2": "No alcohol",
+                "listItem3": "No hot crib"
+            },
+            "displayPosition": 1,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },
+        {
             "name": "gymnasium",
             "title": "Gymnasium",
             "openingHours": "",
@@ -22,11 +50,11 @@
                 "listItem2": "",
                 "listItem3": ""
             },
-            "displayPosition": 1,
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false,
-            "displayLocation": true,
-            "location": "Surge Fitness (Level 3, King Square 3)"
+            "displayLocation": false,
+            "location": ""
         }
     ]
 }
