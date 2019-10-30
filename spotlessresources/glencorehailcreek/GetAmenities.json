@@ -1,0 +1,32 @@
+{
+    "amenity": [
+        {
+            "name": "gymnasium",
+            "title": "Gymnasium",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "gymnasium-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 1,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": true,
+            "location": "Surge Fitness (Level 3, King Square 3)"
+        }
+    ]
+}
