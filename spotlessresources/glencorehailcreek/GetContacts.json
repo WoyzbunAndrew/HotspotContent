@@ -1,4 +1,20 @@
 {
     "contact": [ 
+        {
+            "name": "reception",
+            "title": "Reception",
+            "openingHours": "5am to 9pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "(07) 4985 7127",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayPosition": 1,
+            "uxIsSelected": false,
+            "uxIsDisabled": false
+        }
     ]
 }
