@@ -1,4 +1,26 @@
 {
-    "event": [             
+    "event": [  
+        {
+            "eventId": "C397B87E-CC1B-44D3-8109-4EEDE266EAA8",
+            "name": "social-sport-basketball",
+            "title": "Social Sport",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-11-06",
+            "displayDate": "Wednesday 6th of October",
+            "time": "6:30pm",
+            "location": "Sports Court",
+            "description": "Wednesday Basketball",
+            "details1": "3 versus 3 round robin knockout competition (10 minute games)",
+            "details2": "Sign up with your team or join any team by using the sign up sheet located in the recreation room",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "basketball-image-1.jpg",
+            "imageClassName": "social-sport-basketball-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true
+        }  
     ]
 }
