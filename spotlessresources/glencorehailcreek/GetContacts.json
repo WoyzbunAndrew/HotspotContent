@@ -3,18 +3,29 @@
         {
             "name": "reception",
             "title": "Reception",
-            "openingHours": "5am to 9pm",
-            "displayOpeningHours": true,
-            "phoneNumber": "(07) 4985 7127",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "(08) 9338 6600",
+            "secondaryPhoneNumber": "",
             "displayPhoneNumber": true,
             "emailAddress": "",
             "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
-            "displayMapButton": true,
-            "displayPosition": 1,
+            "displayMapButton": false,            
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "reception-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 1
         }
     ]
 }
