@@ -83,6 +83,34 @@
             "uxIsDisabled": false,
             "displayLocation": false,
             "location": ""
+        },
+        {
+            "name": "tavern",
+            "title": "Tavern",
+            "openingHours": "5:30pm to 9:30pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "tavern-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "No dirty clothes or footwear",
+                "listItem2": "No BYO",
+                "listItem3": "No takeaway after 8:30pm"
+            },
+            "displayPosition": 4,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
         }
     ]
 }
