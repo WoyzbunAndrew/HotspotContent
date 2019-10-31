@@ -1,6 +1,28 @@
 {
     "event": [  
         {
+            "eventId": "E6315ED4-95B0-49DA-A9DA-4CDFD9CEE55B",
+            "name": "fitness-challenge",
+            "title": "November Fitness Challenge",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-11-01",
+            "displayDate": "Starts Friday 1st of November",
+            "time": "",
+            "location": "ALC Office",
+            "description": "Fitness Challenge - Bench Hops",
+            "details1": "Bench hops (also known as box jumps) are a gym work out exercise perfect to tone legs and lower body muscles",
+            "details2": "This challenge requires you to do as many bench hops as possible in 2 minutes. Prizes to be won if you can show us that you can beat the record! The challenge must be witnessed by ALC",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "fitness-challenge-jump-1.jpg",
+            "imageClassName": "fitness-challenge-jump-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false
+        },
+        {
             "eventId": "C397B87E-CC1B-44D3-8109-4EEDE266EAA8",
             "name": "social-sport-basketball",
             "title": "Social Sport",
