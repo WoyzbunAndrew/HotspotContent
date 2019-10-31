@@ -20,7 +20,7 @@
             "imageClassName": "social-sport-basketball-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false
+            "isFeatured": true
         },
         {
             "eventId": "2EA87BB4-007A-4161-8798-62AB61B8056E",
