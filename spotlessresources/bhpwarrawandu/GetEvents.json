@@ -345,6 +345,29 @@
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
+        },
+        {
+            "eventId": "D2B9E5A0-E625-44A6-9894-689FDB74851D",
+            "name": "fitness-challenge",
+            "title": "Fitness Challenge",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-11-11",
+            "displayDate": "Monday 11th of November",
+            "time": "",
+            "location": "Gymnasium",
+            "description": "12-week Challenge - Do You Even Lift?",
+            "details1": "We have designed this challenge to specifically improve and build functional muscle in ways that can assist us not only within our daily lives but also during our jobs",
+            "details2": "The goal is to educate you to minimise Repetitive Strain Injuries and improve your body mechanics. It includes personal training sessions, fitness programs, diet guidelines etc. Register to join today at the gym! There will be prizes & participation certificates to be given out too!",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "",
+            "imageClassName": "fitness-challenge-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false,
+            "hasMenu": false
         }
         
 
