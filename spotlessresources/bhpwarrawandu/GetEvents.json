@@ -389,7 +389,7 @@
             "imageClassName": "volleyball-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false,
+            "isFeatured": true,
             "hasMenu": false
         },
         {
