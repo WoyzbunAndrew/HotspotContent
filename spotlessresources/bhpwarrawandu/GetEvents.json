@@ -387,9 +387,9 @@
             "eventUrl": "",
             "imageName": "",
             "imageClassName": "volleyball-image",
-            "isActivated": true,
+            "isActivated": false,
             "isHighlighted": false,
-            "isFeatured": true,
+            "isFeatured": false,
             "hasMenu": false
         },
         {
@@ -410,7 +410,7 @@
             "eventUrl": "",
             "imageName": "",
             "imageClassName": "volleyball-image",
-            "isActivated": true,
+            "isActivated": false,
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
