@@ -28,6 +28,33 @@
             "displayPosition": 1
         },
         {
+            "name": "security",
+            "title": "Security",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "0427 631 252",
+            "secondaryPhoneNumber": "0400 700 692",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "Located at Village Office",
+            "displaySubtitle": true,
+            "displayMapButton": false,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "Out of Hours Mobile: 0400 700 692",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 2
+        },
+        {
             "name": "maintenance",
             "title": "Maintenance",
             "openingHours": "24/7",
