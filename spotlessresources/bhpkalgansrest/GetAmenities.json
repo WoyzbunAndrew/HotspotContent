@@ -83,6 +83,34 @@
             "uxIsDisabled": false,
             "displayLocation": false,
             "location": ""
+        },
+        {
+            "name": "bbq",
+            "title": "BBQ Area",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "gymnasium-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "Coming Soon",
+                "listTitle": "Things to Know",
+                "listItem1": "Fill up BBQ form and submit to the Admin Office at least 24 hours before use",
+                "listItem2": "All resident names and room numbers must be supplied on the request form",
+                "listItem3": "BBQ Meal Replacement is available for breakfast and evening meals only"
+            },
+            "displayPosition": 8,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
         }
     ]
 }
