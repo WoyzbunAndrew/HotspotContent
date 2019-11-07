@@ -55,6 +55,34 @@
             "uxIsDisabled": false,
             "displayLocation": false,
             "location": ""
+        },
+        {
+            "name": "recreation",
+            "title": "Recreation Room",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "gymnasium-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "Coming Soon",
+                "listTitle": "Things to Know",
+                "listItem1": "Coffee and Tea Available",
+                "listItem2": "Facilities are available for visitors and residents",
+                "listItem3": ""
+            },
+            "displayPosition": 3,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
         }
     ]
 }
