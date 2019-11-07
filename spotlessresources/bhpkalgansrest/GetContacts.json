@@ -37,7 +37,7 @@
             "displayPhoneNumber": true,
             "emailAddress": "",
             "displayEmailAddress": false,
-            "subtitle": "Located at Village Office",
+            "subtitle": "Located at Village Office (Out of Hours Mobile: 0400 700 692)",
             "displaySubtitle": true,
             "displayMapButton": false,            
             "uxIsSelected": false,
@@ -46,7 +46,7 @@
             "imageClassName": "", 
             "iconClassName": "",
             "detail": {
-                "intro": "Out of Hours Mobile: 0400 700 692",
+                "intro": "",
                 "listTitle": "",
                 "listItem1": "",
                 "listItem2": "",
@@ -80,7 +80,33 @@
                 "listItem3": ""
             },
             "displayPosition": 3
-        }
-       
+        },
+        {
+            "name": "healthy-lifestyle",
+            "title": "Healthy Lifestyle Coordinator",
+            "openingHours": "8am to 8pm",
+            "displayOpeningHours": true,
+            "phoneNumber": 0417 810 739",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 4
+        }       
      ]
 }
