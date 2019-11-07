@@ -37,7 +37,7 @@
             "displayPhoneNumber": true,
             "emailAddress": "",
             "displayEmailAddress": false,
-            "subtitle": "Report any faults within rooms or village facilities by completing a maintenance request form at the Village Office",
+            "subtitle": "Report any faults within rooms or village facilities by completing a maintenance request form (available from Village Office)",
             "displaySubtitle": true,
             "displayMapButton": false,            
             "uxIsSelected": false,
