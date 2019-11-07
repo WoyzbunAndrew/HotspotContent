@@ -410,7 +410,7 @@
             "eventUrl": "",
             "imageName": "",
             "imageClassName": "volleyball-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
