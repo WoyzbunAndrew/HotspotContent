@@ -1,32 +1,60 @@
 {
     "amenity": [    
         {
-            "name": "gymnasium",
-            "title": "Gymnasium",
-            "openingHours": "",
-            "displayOpeningHours": false,
+            "name": "restaurant",
+            "title": "Dining Room",
+            "openingHours": "4am to 8am - 4pm to 8:30pm",
+            "displayOpeningHours": true,
             "phoneNumber": "",
             "displayPhoneNumber": false,
             "emailAddress": "",
             "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
-            "displayMapButton": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "restaurant-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "The dining room serves breakfast, crib and dinner",
+                "listTitle": "Things to Know",
+                "listItem1": "Minimum Dress Standard: Clean T-shirts, shorts, thongs and no bags",
+                "listItem2": "Day Crib (4am to 10am) Mon to Thurs & (4am to 8am) Fri to Sun - Night Crib (4pm to 6:30pm) Mon to Sun",
+                "listItem3": "No hot and bulk cribbing"
+            },
+            "displayPosition": 1,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },        
+        {
+            "name": "gymnasium",
+            "title": "Gymnasium",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
             "mapMarker": {},
             "imageClassName": "gymnasium-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
-                "listTitle": "",
-                "listItem1": "",
-                "listItem2": "",
-                "listItem3": ""
+                "listTitle": "Things to Know",
+                "listItem1": "Induction is mandatory",
+                "listItem2": "Swipe card access only",
+                "listItem3": "No work attire"
             },
-            "displayPosition": 1,
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false,
-            "displayLocation": true,
-            "location": "Surge Fitness (Level 3, King Square 3)"
+            "displayLocation": false,
+            "location": ""
         }
     ]
 }
