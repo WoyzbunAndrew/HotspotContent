@@ -131,14 +131,14 @@
                 "intro": "",
                 "listTitle": "Things to Know",
                 "listItem1": "Stocks a range of everyday items including confectionary and personal goods",
-                "listItem2": "",
+                "listItem2": "Located in the Admin Building",
                 "listItem3": ""
             },
             "displayPosition": 5,
             "uxIsSelected": false,
             "uxIsDisabled": false,
-            "displayLocation": true,
-            "location": "Admin Building"
+            "displayLocation": false,
+            "location": ""
         },
         {
             "name": "bbq",
