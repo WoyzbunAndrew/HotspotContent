@@ -86,7 +86,7 @@
             "title": "Healthy Lifestyle Coordinator",
             "openingHours": "8am to 8pm",
             "displayOpeningHours": true,
-            "phoneNumber": 0417 810 739",
+            "phoneNumber": "0417 810 739",
             "secondaryPhoneNumber": "",
             "displayPhoneNumber": true,
             "emailAddress": "",
@@ -107,6 +107,7 @@
                 "listItem3": ""
             },
             "displayPosition": 4
-        }       
+        }
+        
      ]
 }
