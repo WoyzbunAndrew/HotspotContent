@@ -141,6 +141,34 @@
             "location": ""
         },
         {
+            "name": "housekeeping-service",
+            "title": "Housekeeping Service",
+            "openingHours": "5am to 6pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "0418 225 631",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 6,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },
+        {
             "name": "recreation",
             "title": "Recreation Room (Coming Soon)",
             "openingHours": "",
