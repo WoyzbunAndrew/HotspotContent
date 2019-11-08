@@ -205,7 +205,7 @@
             "imageClassName": "social-night-pool-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false,
+            "isFeatured": true,
             "hasMenu": false
         },
         {
