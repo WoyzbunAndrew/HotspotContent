@@ -1,5 +1,32 @@
 
 {
     "contact": [
+        {
+            "name": "reception",
+            "title": "Accommodation Office",
+            "openingHours": "8:30am to 5pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "139 342",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "lia@dha.gov.au",
+            "displayEmailAddress": true,
+            "subtitle": "",
+            "displaySubtitle": true,
+            "displayMapButton": true,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "reception-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 1
+        }
     ]
 }
