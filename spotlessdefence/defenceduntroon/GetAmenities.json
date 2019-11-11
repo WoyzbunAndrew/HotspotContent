@@ -1,4 +1,88 @@
 {
     "amenity": [  
+        {
+            "name": "gymnasium",
+            "title": "Gymnasium",
+            "openingHours": "7am to 7pm (Mon - Fri)",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "gymnasium-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "Close on weekends and public holidays",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 1,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },
+        {
+            "name": "pool",
+            "title": "Swimming Pool",
+            "openingHours": "12pm to 8pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "medical-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "No glass zone",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 2,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },
+        {
+            "name": "medical-centre",
+            "title": "Duntroon Clinic",
+            "openingHours": "9am to 4pm - 8am to 12pm (Friday)",
+            "displayOpeningHours": true,
+            "phoneNumber": "(02) 6248 0511",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "gymnasium-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "In an emergency please call 000",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 3,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        }
     ]
 }
