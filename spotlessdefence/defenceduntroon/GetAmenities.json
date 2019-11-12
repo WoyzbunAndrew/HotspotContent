@@ -84,6 +84,34 @@
             "displayLocation": false,
             "location": ""
         },
+         {
+            "name": "rmc-chapel",
+            "title": "RMC Chapel",
+            "openingHours": "Wednesdays and Sundays",
+            "displayOpeningHours": true,
+            "phoneNumber": "(02) 6248 0511",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "rmc-chapel-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Mass Times",
+                "listItem1": "Sunday: 9:30am & 5pm",
+                "listItem2": "Wednesday: 12pm",
+                "listItem3": ""
+            },
+            "displayPosition": 4,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },
         {
             "name": "mess-cadets",
             "title": "Cadet's Mess",
@@ -106,7 +134,7 @@
                 "listItem2": "Lunch: 12:30-13:15 (Mon-Fri), 12:30-13:30 (Weekends & Public Holidays)",
                 "listItem3": "Dinner: 18:00-18:45 (Mon-Fri), 17:30-18:15 (Weekends & Public Holidays)"
             },
-            "displayPosition": 7,
+            "displayPosition": 8,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": true,
@@ -134,7 +162,7 @@
                 "listItem2": "Lunch: 12:30-13:15 (Mon-Fri), 12:00-13:30 (Weekends & Public Holidays)",
                 "listItem3": "Dinner: 18:00-18:45 (Mon-Fri), 17:30-18:30 (Weekends & Public Holidays)"
             },
-            "displayPosition": 4,
+            "displayPosition": 5,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": true,
@@ -162,7 +190,7 @@
                 "listItem2": "Lunch: 12:30-13:30 (Mon-Fri), 12:30-13:30 (Weekends & Public Holidays)",
                 "listItem3": "Dinner: 18:00-18:45 (Mon-Fri), 18:00-18:45 (Weekends & Public Holidays)"
             },
-            "displayPosition": 6,
+            "displayPosition": 7,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": true,
@@ -190,7 +218,7 @@
                 "listItem2": "Lunch: 12:30-13:30 (Mon-Fri), 12:30-13:30 (Weekends & Public Holidays)",
                 "listItem3": "Dinner: 18:00-18:30 (Mon-Fri), 17:30-18:30 (Weekends & Public Holidays)"
             },
-            "displayPosition": 5,
+            "displayPosition": 6,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": true,
