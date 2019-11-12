@@ -1,4 +1,27 @@
 {
     "event": [
+        {
+            "eventId": "9EFA9A6B-C8C6-48C6-BA38-AFC7F1B4BBDF",
+            "name": "social-sport-soccer",
+            "title": "Social Sport",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-11-14",
+            "displayDate": "Thursday 14th of November",
+            "time": "7:15pm",
+            "location": "Gymnasium",
+            "description": "Soccer",
+            "details1": "Starts at 7:15pm on the multi-purpose court in the Gymnasium",
+            "details2": "",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "action-ball-field-274506.jpg",
+            "imageClassName": "social-sport-soccer-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false,
+            "hasMenu": false
+        }
     ]
 }
