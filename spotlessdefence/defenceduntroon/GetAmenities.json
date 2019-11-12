@@ -85,7 +85,7 @@
             "location": ""
         },
         {
-            "name": "mess",
+            "name": "mess-cadets",
             "title": "Cadet's Mess",
             "openingHours": "",
             "displayOpeningHours": false,
@@ -113,7 +113,7 @@
             "location": "Building A030"
         },
         {
-            "name": "mess",
+            "name": "mess-officers",
             "title": "Officer's Mess",
             "openingHours": "",
             "displayOpeningHours": false,
@@ -141,7 +141,7 @@
             "location": "Building C010 (Plant Road, Campbell)"
         },
         {
-            "name": "mess",
+            "name": "mess-ors",
             "title": "OR's Mess",
             "openingHours": "",
             "displayOpeningHours": false,
@@ -169,7 +169,7 @@
             "location": "Building D082 (Plant Road, Campbell)"
         },
         {
-            "name": "mess",
+            "name": "mess-sargeants",
             "title": "Sargeant's Mess",
             "openingHours": "",
             "displayOpeningHours": false,
