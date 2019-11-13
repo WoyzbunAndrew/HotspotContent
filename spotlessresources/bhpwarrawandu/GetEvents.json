@@ -433,7 +433,7 @@
             "eventUrl": "",
             "imageName": "",
             "imageClassName": "trivia-night-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
@@ -456,7 +456,7 @@
             "eventUrl": "",
             "imageName": "",
             "imageClassName": "mens-night-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
