@@ -433,11 +433,35 @@
             "eventUrl": "",
             "imageName": "",
             "imageClassName": "trivia-night-image",
+            "isActivated": false,
+            "isHighlighted": false,
+            "isFeatured": true,
+            "hasMenu": false
+        },
+        {
+            "eventId": "893045B2-F738-46A6-A731-2B36D09F59D5",
+            "name": "mens-day",
+            "title": "Men's Day",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-11-19",
+            "displayDate": "Tuesday 19th of November",
+            "time": "6pm",
+            "location": "Jim's Tavern",
+            "description": "BBQ Night with Your Mates",
+            "details1": "On November the 19 International Men's Day celebrates the positive value men bring to the world, their families and communities. Please join us at the Tavern and support your mates!",
+            "details2": "On this day the tavern will be transformed into an area of relaxation, enjoyment and entertainment. There will be BBQ dinner, live music, awards and presentations.",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "",
+            "imageClassName": "mens-night-image",
             "isActivated": true,
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
         }      
+
 
 
     ]
