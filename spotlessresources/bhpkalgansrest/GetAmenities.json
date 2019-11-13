@@ -258,7 +258,7 @@
             "name": "cafe",
             "title": "Cafe",
             "openingHours": "24/7",
-            "displayOpeningHours": true,
+            "displayOpeningHours": false,
             "phoneNumber": "",
             "displayPhoneNumber": false,
             "emailAddress": "",
