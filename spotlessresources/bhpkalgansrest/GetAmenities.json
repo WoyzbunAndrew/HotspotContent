@@ -229,8 +229,8 @@
         {
             "name": "bbq",
             "title": "BBQ Area (Coming Soon)",
-            "openingHours": "",
-            "displayOpeningHours": false,
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
             "phoneNumber": "",
             "displayPhoneNumber": false,
             "emailAddress": "",
