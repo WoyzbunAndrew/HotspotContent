@@ -414,8 +414,30 @@
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
-        }
-        
+        },
+        {
+            "eventId": "E6D71C01-17FA-4CDD-8AF4-F5E0B102B60F",
+            "name": "trivia-night",
+            "title": "Trivia Night",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-11-26",
+            "displayDate": "Tuesday 26th of November",
+            "time": "From 7:15pm",
+            "location": "Beer Garden",
+            "description": "Warrawandu HLC will be hosting a Trivia Night competition inside the tavern",
+            "details1": "Form a team of 4 to 6 people - the questions will be a mix of general knowledge, sport and entertainment with a picture round including 'Guess the Mo!'",
+            "details2": "There is a $10 entry fee per team with the proceeds going towards the Men's Health Foundation. See you all there!",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "",
+            "imageClassName": "trivia-night-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true,
+            "hasMenu": false
+        }      
 
 
     ]
