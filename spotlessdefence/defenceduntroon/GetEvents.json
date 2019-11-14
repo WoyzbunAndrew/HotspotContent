@@ -6,8 +6,8 @@
             "title": "Social Sport",
             "subtitle": "",
             "categoryType": "Social Event",
-            "date": "2019-11-14",
-            "displayDate": "Thursday 14th of November",
+            "date": "2019-11-21",
+            "displayDate": "Thursday 21st of November",
             "time": "7:15pm",
             "location": "Gymnasium",
             "description": "Soccer",
@@ -20,7 +20,7 @@
             "imageClassName": "social-sport-soccer-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false,
+            "isFeatured": true,
             "hasMenu": false
         }
     ]
