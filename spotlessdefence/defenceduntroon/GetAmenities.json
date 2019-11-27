@@ -223,34 +223,6 @@
             "uxIsDisabled": false,
             "displayLocation": true,
             "location": "Building C094 (Vowels Road, Campbell)"
-        },
-        {
-            "name": "base-services-support-centre",
-            "title": "Base Services Support Centre",
-            "openingHours": "24/7",
-            "displayOpeningHours": true,
-            "phoneNumber": "1300 658 975",
-            "displayPhoneNumber": true,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": false,
-            "mapMarker": {},
-            "imageClassName": "gymnasium-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Maintenance & Repair",
-                "listItem1": "Request maintennace for building, infrastructure, gardens or landscape",
-                "listItem2": "Raise a transport request",
-                "listItem3": "Request cleaning services"
-            },
-            "displayPosition": 7,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": false,
-            "location": ""
-        }
+        }        
     ]
 }
