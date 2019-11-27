@@ -56,7 +56,7 @@
             "displayPosition": 2
         },
         {
-            "name": "security",
+            "name": "security-incident",
             "title": "Security Incident",
             "openingHours": "24/7",
             "displayOpeningHours": true,
