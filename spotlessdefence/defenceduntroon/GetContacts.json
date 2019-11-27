@@ -54,6 +54,33 @@
                 "listItem3": "Request cleaning services"
             },
             "displayPosition": 2
+        },
+        {
+            "name": "security",
+            "title": "Security Incident",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "(02) 6265 7275",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": true,
+            "displayMapButton": false,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "security-image-4", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Safety & Security",
+                "listItem1": "Report any suspicious behaviour or incident on-base",
+                "listItem2": "Examples: Armed intruder, someone walking around with RF recording equipment etc.",
+                "listItem3": ""
+            },
+            "displayPosition": 3
         }  
     ]
 }
