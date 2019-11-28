@@ -87,6 +87,29 @@
             "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false
-        }        
+        },
+        
+        {
+            "eventId": "740B1AA0-2E71-4F26-9750-4DB7749FCB95",
+            "name": "portuguese-night",
+            "title": "Portuguese Night",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-12-11",
+            "displayDate": "Wednesday 11th of December",
+            "time": "4pm",
+            "location": "Dining Hall",
+            "description": "When you think about Portuguese food, what comes to mind?",
+            "details1": "The Atlantic is the source of Portuguese food, we use a lot of olive oil, spices, poultry and seafood. It is the best, the food is hearty, rich and spicy.",
+            "details2": "If you want to understand the food, come join us at the dining hall, we have prepared a Portuguese feast for you to indulge.",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "portuguese-night-image-1.jpg",
+            "imageClassName": "portuguese-night-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false
+        } 
     ]
 }
