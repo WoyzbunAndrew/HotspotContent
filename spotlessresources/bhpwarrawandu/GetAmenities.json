@@ -229,7 +229,7 @@
             "amenityId": "EA4800AB-9888-4593-85B7-600224D03CD9",
             "name": "retail-outlet",
             "title": "Retail Outlet",
-            "openingHours": "4:30am to 8pm",
+            "openingHours": "4:30am to 9pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
             "displayPhoneNumber": false,
@@ -240,8 +240,8 @@
             "displayMapButton": true,
             "mapMarker": {
                 "showMarker": true,                          
-                "latitude": -23.334212,
-                "longitude": 119.932031
+                "latitude": -23.336971,
+                "longitude": 119.932015
             },
             "imageClassName": "",
             "iconClassName": "shopping_cart",
