@@ -41,7 +41,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "tavern-image-2",
+            "imageClassName": "tavern-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "Includes a large beer garden",
@@ -185,7 +185,7 @@
                 "latitude": -23.334212,
                 "longitude": 119.932031
             },
-            "imageClassName": "",
+            "imageClassName": "medical-image-1",
             "iconClassName": "local_hospital",
             "detail": {
                 "intro": "",
@@ -212,7 +212,7 @@
             "displaySubtitle": false,
             "displayMapButton": false,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "cleaning-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -243,7 +243,7 @@
                 "latitude": -23.336971,
                 "longitude": 119.932015
             },
-            "imageClassName": "",
+            "imageClassName": "kiosk-image-1",
             "iconClassName": "shopping_cart",
             "detail": {
                 "intro": "",
@@ -270,7 +270,7 @@
             "displaySubtitle": false,
             "displayMapButton": false,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "wifi-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
