@@ -110,6 +110,28 @@
             "isActivated": false,
             "isHighlighted": false,
             "isFeatured": true
+        },
+        {
+            "eventId": "948B59BE-0A20-49C5-B6D1-AC429AEFC9CA",
+            "name": "hawaiian-night",
+            "title": "Hawaiian Night",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-12-25",
+            "displayDate": "Wednesday 25th of December",
+            "time": "4pm",
+            "location": "Dining Hall",
+            "description": "Aloha! Welcome to Hawaii!",
+            "details1": "Hawaiian food originated from Pacific Polynesian Islands. Now, Hawaiian cuisine has the best taste of all worlds, from Asian to European, everything is blended together by the melting pot of cultures.",
+            "details2": "Come to our sandy shores, there are signature must-try Hawaiian food that you don't want to miss out! Dig in like a local, experience the Onolicious!",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "portuguese-night-image-1.jpg",
+            "imageClassName": "hawaiian-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true
         } 
     ]
 }
