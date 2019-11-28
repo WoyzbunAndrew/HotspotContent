@@ -109,7 +109,7 @@
             "imageClassName": "portuguese-night-image",
             "isActivated": true,
             "isHighlighted": false,
-            "isFeatured": false
+            "isFeatured": true
         } 
     ]
 }
