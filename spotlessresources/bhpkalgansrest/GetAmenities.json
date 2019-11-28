@@ -13,7 +13,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "restaurant-image-1",
+            "imageClassName": "restaurant-image-2",
             "iconClassName": "",
             "detail": {
                 "intro": "The dining room serves breakfast, crib and dinner",
@@ -69,7 +69,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "car-park-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -97,7 +97,7 @@
             "displaySubtitle": false,
             "displayMapButton": false,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "kiosk-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -125,7 +125,7 @@
             "displaySubtitle": false,
             "displayMapButton": false,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "wifi-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -153,7 +153,7 @@
             "displaySubtitle": false,
             "displayMapButton": false,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "cleaning-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -182,7 +182,7 @@
             "displaySubtitle": false,
             "displayMapButton": false,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "mail-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -211,7 +211,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "recreation-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -239,7 +239,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "bbq-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -267,7 +267,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "cafe-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
