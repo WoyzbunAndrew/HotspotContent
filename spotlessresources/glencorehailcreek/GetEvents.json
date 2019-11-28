@@ -129,7 +129,7 @@
             "eventUrl": "",
             "imageName": "portuguese-night-image-1.jpg",
             "imageClassName": "hawaiian-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": true
         },
@@ -195,7 +195,7 @@
             "eventUrl": "",
             "imageName": "",
             "imageClassName": "italian-night-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false
         },
