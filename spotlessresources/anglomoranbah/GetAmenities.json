@@ -14,7 +14,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "restaurant-image-2",
             "iconClassName": "",
             "detail": {
                 "intro": "The Dining Room serves breakfast, lunch and dinner",
@@ -40,7 +40,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "recreation-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -66,7 +66,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "theatre-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -92,7 +92,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "bbq-image-1 ",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -118,7 +118,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "kiosk-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "Convenience Store",
@@ -144,7 +144,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "gymnasium-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -156,8 +156,7 @@
             "displayPosition": 6,
             "uxIsSelected": false,
             "uxIsDisabled": false
-        }
-        
+        }        
     
      ]
 }
