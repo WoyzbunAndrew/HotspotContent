@@ -107,7 +107,7 @@
             "eventUrl": "",
             "imageName": "portuguese-night-image-1.jpg",
             "imageClassName": "portuguese-night-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": true
         },
@@ -151,7 +151,7 @@
             "eventUrl": "",
             "imageName": "thai-night-image-1.jpg",
             "imageClassName": "thai-night-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false
         },
@@ -173,7 +173,7 @@
             "eventUrl": "",
             "imageName": "russian-night-image-1.jpg",
             "imageClassName": "russian-night-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false
         }, 
@@ -217,7 +217,7 @@
             "eventUrl": "",
             "imageName": "indonesian-night-image-1.jpg",
             "imageClassName": "indonesian-night-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false
         }
