@@ -11,10 +11,20 @@
             "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
-            "displayMapButton": true,
-            "displayPosition": 1,
+            "displayMapButton": true,           
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "reception-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 1
         },
         {
             "name": "security",
@@ -27,10 +37,20 @@
             "displayEmailAddress": false,
             "subtitle": "Call in the event of snake sightings",
             "displaySubtitle": true,
-            "displayMapButton": false,
-            "displayPosition": 2,
+            "displayMapButton": false,           
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "security-image-4", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 2
         },
         {
             "name": "maintenance",
@@ -43,10 +63,20 @@
             "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
-            "displayMapButton": false,
-            "displayPosition": 3,
+            "displayMapButton": false,           
             "uxIsSelected": false,
-            "uxIsDisabled": false
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "maintenance-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 3
         } 
     ]
 }
