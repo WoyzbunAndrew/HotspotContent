@@ -43,7 +43,7 @@
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "mapMarker": {},    
-            "imageClassName": "", 
+            "imageClassName": "security-image-4", 
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -97,7 +97,7 @@
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "mapMarker": {},    
-            "imageClassName": "", 
+            "imageClassName": "healthy-lifestyle-image", 
             "iconClassName": "",
             "detail": {
                 "intro": "",
