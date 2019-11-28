@@ -13,7 +13,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "restaurant-image-2",
             "iconClassName": "",
             "detail": {
                 "intro": "The Dining Room serves breakfast and dinner",
@@ -39,7 +39,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "recreation-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "A communal area for group functions",
@@ -65,7 +65,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "locker-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -91,7 +91,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "tennis-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
@@ -117,7 +117,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "",
+            "imageClassName": "meeting-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "Ideal for functions & training",
