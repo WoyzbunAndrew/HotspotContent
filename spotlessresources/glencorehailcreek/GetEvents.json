@@ -107,7 +107,7 @@
             "eventUrl": "",
             "imageName": "portuguese-night-image-1.jpg",
             "imageClassName": "portuguese-night-image",
-            "isActivated": true,
+            "isActivated": false,
             "isHighlighted": false,
             "isFeatured": true
         } 
