@@ -1,4 +1,73 @@
 {
     "eventMenu": [ 
+        {
+            "eventMenuId": "4DAD113C-892F-488C-A3B5-340ED739946D",
+            "eventId": "4DAD113C-892F-488C-A3B5-340ED739946D",
+            "name": "christmas-night",
+            "title": "Christmas Night",
+            "imageName": "christmas-night-image-1.jpg",
+            "imageClassName": "christmas-night-image",
+            "date": "2019-12-04",
+            "mealType": "dinner",
+            "isActivated": true,
+            "menuItem": [
+                {
+                    "name": "Roast Turkey with Cranberry Sauce",
+                    "displayPosition": 1
+                },
+                {
+                    "name": "Pineapple & Clove Glazed Baked Leg Ham",
+                    "displayPosition": 2
+                },
+                {
+                    "name": "Roast Rolled Lamb Stuffed With Sundried Tomato, Spinach & Feta Cheese",
+                    "displayPosition": 3
+                },
+                {
+                    "name": "Grilled Huon Salmon Fillets With Asparagus Topped With a Bearnaise Sauce",
+                    "displayPosition": 4
+                },
+                {
+                    "name": "Antipasto - Selection of Cold Cuts, WA Cheese & Artisan Bread",
+                    "displayPosition": 5
+                },
+                {
+                    "name": "Seafood Bar - Selection of Oysters, Mussels & Cooked Prawns",
+                    "displayPosition": 6
+                },
+                {
+                    "name": "Vegan Christmas Roast Wellington",
+                    "displayPosition": 7
+                },
+                {
+                    "name": "Roast Potatoes",
+                    "displayPosition": 8
+                },
+                {
+                    "name": "Spiced Roast Pumpkin",
+                    "displayPosition": 9
+                },
+                {
+                    "name": "Blanced Brussel Sprouts with Ginger & Orange",
+                    "displayPosition": 10
+                },
+                {
+                    "name": "Traditional Cauliflower & Cheese",
+                    "displayPosition": 11
+                },
+                {
+                    "name": "Black Forest Cake, Pavlova & Mince Pies",
+                    "displayPosition": 12
+                },
+                {
+                    "name": "Christmas Pudding with Brandy Custard",
+                    "displayPosition": 13
+                },
+                {
+                    "name": "Ice Cream (with a Variety of Toppings)",
+                    "displayPosition": 14
+                }
+            ]
+        }
     ]
 }
