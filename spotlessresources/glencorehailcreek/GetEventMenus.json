@@ -7,7 +7,7 @@
             "title": "Portuguese Night",
             "imageName": "portuguese-night-image-1.jpg",
             "imageClassName": "portuguese-night-image",
-            "date": "2019-12-04",
+            "date": "2019-12-11",
             "mealType": "dinner",
             "isActivated": true,
             "menuItem": [
@@ -68,6 +68,357 @@
                     "displayPosition": 14
                 }
             ]
-        }
+        },       
+        
+        {
+            "eventMenuId": "948B59BE-0A20-49C5-B6D1-AC429AEFC9CA",
+            "eventId": "948B59BE-0A20-49C5-B6D1-AC429AEFC9CA",
+            "name": "hawaiian-night",
+            "title": "Hawaiian Night",
+            "imageName": "audience-barefoot-blur-54093.jpg",
+            "imageClassName": "hawaiian-image",
+            "date": "2019-12-25",
+            "mealType": "dinner",
+            "isActivated": true,
+            "menuItem": [
+                {
+                    "name": "Roast Pork with Pineapples",
+                    "displayPosition": 1
+                },
+                {
+                    "name": "Chicken Adobo",
+                    "displayPosition": 2
+                },
+                {
+                    "name": "Pulled BBQ Chipotle Beef Tacos",
+                    "displayPosition": 3
+                },
+                {
+                    "name": "Crispy Tofu with Crunchy Barley",
+                    "displayPosition": 4
+                },
+                {
+                    "name": "Creamy Chicken Coconut Rice Soup",
+                    "displayPosition": 5
+                },
+                {
+                    "name": "Luau Rice",
+                    "displayPosition": 6
+                },
+                {
+                    "name": "Smashed Potato with Cheese & Bacon",
+                    "displayPosition": 7
+                },
+                {
+                    "name": "Sweet Potato Casserole",
+                    "displayPosition": 8
+                },
+                {
+                    "name": "Coconut Bread",
+                    "displayPosition": 9
+                },
+                {
+                    "name": "Corn on the Cob",
+                    "displayPosition": 10
+                },
+                {
+                    "name": "Grilled Zucchini & Tomato with Feta",
+                    "displayPosition": 11
+                },
+                {
+                    "name": "Ohana Green Beans with Shredded Coconut",
+                    "displayPosition": 12
+                },
+                {
+                    "name": "Apple & Coconut Bread Pudding",
+                    "displayPosition": 13
+                },
+                {
+                    "name": "Ice Cream (with a Variety of Toppings)",
+                    "displayPosition": 14
+                }
+            ]
+        },
+        
+        
+        
+        
+        {
+            "eventMenuId": "B4E3C01B-78DF-490F-BD50-81A954023B2C",
+            "eventId": "B4E3C01B-78DF-490F-BD50-81A954023B2C",
+            "name": "thai-night",
+            "title": "Thai  Night",
+            "imageName": "thai-night-image-1.jpg",
+            "imageClassName": "thai-night-image",
+            "date": "2020-01-08",
+            "mealType": "dinner",
+            "isActivated": true,
+            "menuItem": [
+                {
+                    "name": "Yellow Curry Chicken",
+                    "displayPosition": 1
+                },
+                {
+                    "name": "Grilled Fish with Chili & Coriander Sauce",
+                    "displayPosition": 2
+                },
+                {
+                    "name": "Green Curry Coconut Pork",
+                    "displayPosition": 3
+                },
+                {
+                    "name": "Vegetarian Pad Thai",
+                    "displayPosition": 4
+                },
+                {
+                    "name": "Tom Yum Soup with Coconut",
+                    "displayPosition": 5
+                },
+                {
+                    "name": "Crispy Rice Noodles",
+                    "displayPosition": 6
+                },
+                {
+                    "name": "Spiced Roasted Sweet Potato",
+                    "displayPosition": 7
+                },
+                {
+                    "name": "Pickled Plum Curry Potato",
+                    "displayPosition": 8
+                },
+                {
+                    "name": "Drunken Noodles",
+                    "displayPosition": 9
+                },
+                {
+                    "name": "Stir Fry Broccoli & Carrot",
+                    "displayPosition": 10
+                },
+                {
+                    "name": "Asian Bok Choy with Garlic, Ginger & Lime",
+                    "displayPosition": 11
+                },
+                {
+                    "name": "Braised Eggplant & Choy Sum",
+                    "displayPosition": 12
+                },
+                {
+                    "name": "Mango Rice Pudding",
+                    "displayPosition": 13
+                },
+                {
+                    "name": "Ice Cream (with a Variety of Toppings)",
+                    "displayPosition": 14
+                }
+            ]
+        },
+        {
+            "eventMenuId": "5FDA474E-553C-4ABC-B669-99026DEB5761",
+            "eventId": "5FDA474E-553C-4ABC-B669-99026DEB5761",
+            "name": "russian-night",
+            "title": "Russian Night",
+            "imageName": "russian-night-image-1.jpg",
+            "imageClassName": "russian-night-image",
+            "date": "2020-01-22",
+            "mealType": "dinner",
+            "isActivated": true,
+            "menuItem": [
+                {
+                    "name": "Roast Pork Buzhenina Style",
+                    "displayPosition": 1
+                },
+                {
+                    "name": "Sweet & Tangy Apricot Chicken",
+                    "displayPosition": 2
+                },
+                {
+                    "name": "Beef Stroganoff",
+                    "displayPosition": 3
+                },
+                {
+                    "name": "Kasha Roasted Vegetables with Mushrooms & Boughal",
+                    "displayPosition": 4
+                },
+                {
+                    "name": "Russian Borscht Soup",
+                    "displayPosition": 5
+                },
+                {
+                    "name": "Jeweled Vegetarian Rice Plov",
+                    "displayPosition": 6
+                },
+                {
+                    "name": "Fried Potatoes",
+                    "displayPosition": 7
+                },
+                {
+                    "name": "Roasted Potato with Dijon Mustard",
+                    "displayPosition": 8
+                },
+                {
+                    "name": "Rye Bread Loaf",
+                    "displayPosition": 9
+                },
+                {
+                    "name": "Roasted Beets with Pickles",
+                    "displayPosition": 10
+                },
+                {
+                    "name": "Brussel Sprouts",
+                    "displayPosition": 11
+                },
+                {
+                    "name": "Braised Cabbage & Spinach with Lemon & Garlic",
+                    "displayPosition": 12
+                },
+                {
+                    "name": "Neapolitan Sponge Pudding",
+                    "displayPosition": 13
+                },
+                {
+                    "name": "Ice Cream (with a Variety of Toppings)",
+                    "displayPosition": 14
+                }
+            ]
+        },
+        {
+            "eventMenuId": "4D700E6D-DD8B-4C07-83D9-84F87E31114E",
+            "eventId": "4D700E6D-DD8B-4C07-83D9-84F87E31114E",
+            "name": "sicilian-night",
+            "title": "Sicilian Night",
+            "imageName": "bowl-bread-dinner-65060.jpg",
+            "imageClassName": "italian-night-image",
+            "date": "2020-02-05",
+            "mealType": "dinner",
+            "isActivated": true,
+            "menuItem": [
+                {
+                    "name": "Lemon & Caper Chicken",
+                    "displayPosition": 1
+                },
+                {
+                    "name": "Baked Swordfish",
+                    "displayPosition": 2
+                },
+                {
+                    "name": "Sicilian Pork Chipolata & Salami Casserole",
+                    "displayPosition": 3
+                },
+                {
+                    "name": "Arancini Balls",
+                    "displayPosition": 4
+                },
+                {
+                    "name": "Caldo Verde",
+                    "displayPosition": 5
+                },
+                {
+                    "name": "Corn Bread",
+                    "displayPosition": 6
+                },
+                {
+                    "name": "Trapandi Style Potato",
+                    "displayPosition": 7
+                },
+                {
+                    "name": "Sicilian Potato Gratin",
+                    "displayPosition": 8
+                },
+                {
+                    "name": "Pasta ala Norma",
+                    "displayPosition": 9
+                },
+                {
+                    "name": "Caponata",
+                    "displayPosition": 10
+                },
+                {
+                    "name": "Cavolfiore Siciliano Cauliflower",
+                    "displayPosition": 11
+                },
+                {
+                    "name": "Zucchini with Ricotta Cheese",
+                    "displayPosition": 12
+                },
+                {
+                    "name": "Sfingi Carnival Doughnuts",
+                    "displayPosition": 13
+                },
+                {
+                    "name": "Ice Cream (with a Variety of Toppings)",
+                    "displayPosition": 14
+                }
+            ]
+        },
+        {
+            "eventMenuId": "5B195285-8B6E-44F5-A2F4-5EA5DD1F8F74",
+            "eventId": "5B195285-8B6E-44F5-A2F4-5EA5DD1F8F74",
+            "name": "indonesian-night",
+            "title": "Indonesian Night",
+            "imageName": "indonesian-night-image-1.jpg",
+            "imageClassName": "indonesian-night-image",
+            "date": "2020-02-19",
+            "mealType": "dinner",
+            "isActivated": true,
+            "menuItem": [
+                {
+                    "name": "Sambal Seasoned Roast Beef",
+                    "displayPosition": 1
+                },
+                {
+                    "name": "Satay Chicken",
+                    "displayPosition": 2
+                },
+                {
+                    "name": "Sweet Soy Pork with Chilli, Ginger and Hokkien Noodles",
+                    "displayPosition": 3
+                },
+                {
+                    "name": "Pineapple Glazed Carrots",
+                    "displayPosition": 4
+                },
+                {
+                    "name": "Gado Gado",
+                    "displayPosition": 5
+                },
+                {
+                    "name": "Prawn Dumpling Soup",
+                    "displayPosition": 6
+                },
+                {
+                    "name": "Nasi Goreng Rice with Egg",
+                    "displayPosition": 7
+                },
+                {
+                    "name": "Perketel Ketang Potatoes",
+                    "displayPosition": 8
+                },
+                {
+                    "name": "Spicy Fried Potatoes",
+                    "displayPosition": 9
+                },
+                {
+                    "name": "Garlic Bread",
+                    "displayPosition": 10
+                },
+                {
+                    "name": "Cah Kangkung Asian Vegetables",
+                    "displayPosition": 11
+                },
+                {
+                    "name": "Belado Terong Eggplant",
+                    "displayPosition": 12
+                },
+                {
+                    "name": "Ginger & Coconut Spiced Rice Pudding",
+                    "displayPosition": 13
+                },
+                {
+                    "name": "Ice Cream (with a Variety of Toppings)",
+                    "displayPosition": 14
+                }
+            ]
+        }       
+        
     ]
 }
