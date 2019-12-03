@@ -460,9 +460,30 @@
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
-        }      
-
-
+        },
+        {
+            "eventId": "4DAD113C-892F-488C-A3B5-340ED739946D",
+            "name": "christmas-night",
+            "title": "Christmas Night",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2019-12-25",
+            "displayDate": "Wednesday 25th of December",
+            "time": "6pm",
+            "location": "Restaurant",
+            "description": "Merry Christmas Everyone! Ho! Ho! Ho!",
+            "details1": "Come and celebrate with us at Warrawandu Restaurant. We have prepared a feast for you and your mates! The restaurant will be decorated with Christmas lights, we guarantee it will be cozy and beautiful.",
+            "details2": "There will be seafood, meat and lots of desserts! Check out the Christmas Menu and make sure you don't miss out!",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "christmas-night-image-1.jpg",
+            "imageClassName": "christmas-night-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true,
+            "hasMenu": true
+        }  
 
     ]
 }
