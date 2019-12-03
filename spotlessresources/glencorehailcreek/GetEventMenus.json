@@ -1,0 +1,73 @@
+{
+    "eventMenu": [          
+        {
+            "eventMenuId": "4838F7AC-1666-4909-B3C6-E6C7FBE90F71",
+            "eventId": "4838F7AC-1666-4909-B3C6-E6C7FBE90F71",
+            "name": "portuguese-night",
+            "title": "Portuguese Night",
+            "imageName": "portuguese-night-image-1.jpg",
+            "imageClassName": "portuguese-night-image",
+            "date": "2019-12-04",
+            "mealType": "dinner",
+            "isActivated": true,
+            "menuItem": [
+                {
+                    "name": "Peri-Peri Chicken",
+                    "displayPosition": 1
+                },
+                {
+                    "name": "Grilled Mackerel with Garlic, Herbs & Lemon",
+                    "displayPosition": 2
+                },
+                {
+                    "name": "Baked Parmesan Mushrooms",
+                    "displayPosition": 3
+                },
+                {
+                    "name": "Trinchado Braised Beef",
+                    "displayPosition": 4
+                },
+                {
+                    "name": "Vegetarian Fejioada",
+                    "displayPosition": 5
+                },
+                {
+                    "name": "Sweet Potato Soup with Sausage",
+                    "displayPosition": 6
+                },
+                {
+                    "name": "Punched Potato with Onion & Cheese",
+                    "displayPosition": 7
+                },
+                {
+                    "name": "Parisienne Potatoes",
+                    "displayPosition": 8
+                },
+                {
+                    "name": "Bolo de Caco Bread",
+                    "displayPosition": 9
+                },
+                {
+                    "name": "Grilled Mushroom with Peppers",
+                    "displayPosition": 10
+                },
+                {
+                    "name": "Garlic Broccoli",
+                    "displayPosition": 11
+                },
+                {
+                    "name": "Creamed Corn",
+                    "displayPosition": 12
+                },
+                {
+                    "name": "Baked Custard Tart",
+                    "displayPosition": 13
+                },
+                {
+                    "name": "Ice Cream (with a Variety of Toppings)",
+                    "displayPosition": 14
+                }
+            ]
+        }
+    ]
+}
