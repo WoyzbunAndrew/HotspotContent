@@ -1,6 +1,7 @@
 {
     "amenity": [    
         {
+            "amenityId": "3BC0BE95-EF29-4115-8336-1928337094C3",
             "name": "restaurant",
             "title": "Dining Room",
             "openingHours": "4am to 8am - 4pm to 8:30pm",
@@ -29,6 +30,7 @@
             "location": ""
         },        
         {
+            "amenityId": "15D1E550-F263-427F-B503-2E8C732C5A15",
             "name": "gymnasium",
             "title": "Gymnasium",
             "openingHours": "24/7",
@@ -57,6 +59,7 @@
             "location": ""
         },        
         {
+            "amenityId": "E5C38199-C9F8-4251-B7EA-0D21C1C69268",
             "name": "car-park",
             "title": "Car Park",
             "openingHours": "24/7",
@@ -85,6 +88,7 @@
             "location": ""
         },
         {
+            "amenityId": "E559E16B-7F08-47EF-A667-DAFBF8AF16AB",
             "name": "retail-outlet",
             "title": "Retail Shop",
             "openingHours": "5am to 7pm",
@@ -113,6 +117,7 @@
             "location": ""
         },
         {
+            "amenityId": "66D70579-049D-4183-85E5-273C057B4717",
             "name": "in-room-communication",
             "title": "In Room Communication & Wifi",
             "openingHours": "",
@@ -141,6 +146,7 @@
             "location": ""
         },
         {
+            "amenityId": "7CE6B78E-487A-4026-9B76-4A4AC77B9422",
             "name": "housekeeping-service",
             "title": "Housekeeping Service",
             "openingHours": "5am to 6pm",
@@ -170,6 +176,7 @@
         },        
        
         {
+            "amenityId": "E6A19DE4-41EF-4F61-B7F4-F03B7C8DB483",
             "name": "mail-service",
             "title": "Mail Service",
             "openingHours": "5am to 7pm",
@@ -199,6 +206,7 @@
         },
         
         {
+            "amenityId": "83CC8435-C50A-48C6-B6AF-CDD62CABB277",
             "name": "recreation",
             "title": "Recreation Room (Coming Soon)",
             "openingHours": "",
@@ -227,6 +235,7 @@
             "location": ""
         },
         {
+            "amenityId": "22542A32-38DD-405C-B97D-C9D1C9D3EE49",
             "name": "bbq",
             "title": "BBQ Area (Coming Soon)",
             "openingHours": "24/7",
@@ -255,6 +264,7 @@
             "location": ""
         },
         {
+            "amenityId": "AC98DF63-15E7-43FE-901A-77F4DC026F68",
             "name": "cafe",
             "title": "Cafe",
             "openingHours": "24/7",
