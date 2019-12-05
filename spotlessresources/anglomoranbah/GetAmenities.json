@@ -2,6 +2,7 @@
 {
     "amenity": [ 
         {
+            "amenityId": "FC8A425B-74D9-446C-85AF-D77D6603CF11",  
             "name": "restaurant",
             "title": "Dining Room",
             "openingHours": "3am to 10am & 3pm to 11pm (Daily) - 12pm to 1pm (Friday only)",
@@ -28,6 +29,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "B5DD6110-517E-4B97-AA02-B6D6E44530E1",    
             "name": "recreation",
             "title": "Recreation Room",
             "openingHours": "24/7",
@@ -54,6 +56,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "E5341AAE-260C-48AC-9E7A-B1D6AF653B3B",    
             "name": "theatre",
             "title": "Theatre Room",
             "openingHours": "24/7",
@@ -80,6 +83,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "739FFBA3-7D97-4750-A1A7-D75509B480ED",    
             "name": "bbq",
             "title": "BBQ Deck Area",
             "openingHours": "3am to 10pm",
@@ -106,6 +110,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "5EF4883F-768E-494A-BBB7-7400DF146750",    
             "name": "kiosk",
             "title": "Kiosk",
             "openingHours": "6am to 10pm",
@@ -132,6 +137,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "083E4738-BEC4-4BAE-8AE1-80D71BB02664",    
             "name": "gymnasium",
             "title": "Gymnasium",
             "openingHours": "24/7",
