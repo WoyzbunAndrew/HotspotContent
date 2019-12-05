@@ -1,6 +1,7 @@
 {
     "contact": [
         {
+            "contactId": "73926213-2E16-4C5E-85F0-853D59222A56",
             "name": "reception",
             "title": "Village Office",
             "openingHours": "5am to 7pm",
@@ -28,6 +29,7 @@
             "displayPosition": 1
         },
         {
+            "contactId": "62240BE3-CA9F-4F0F-BF04-F20AA80B9A70",
             "name": "security",
             "title": "Security",
             "openingHours": "24/7",
@@ -55,6 +57,7 @@
             "displayPosition": 2
         },
         {
+            "contactId": "EF5B27DE-1D21-4351-902E-9ADAEBC4A3F5",
             "name": "maintenance",
             "title": "Maintenance",
             "openingHours": "24/7",
@@ -82,6 +85,7 @@
             "displayPosition": 3
         },
         {
+            "contactId": "5787E07D-C38C-45B5-8AB9-E12BF14A81B3",
             "name": "healthy-lifestyle",
             "title": "Healthy Lifestyle Coordinator",
             "openingHours": "8am to 8pm",
