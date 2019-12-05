@@ -1,6 +1,7 @@
 {
     "contact": [
         {
+            "contactId": "C236122B-47D5-4CFB-95FD-DF7618F604F9",
             "name": "reception",
             "title": "Main Reception",
             "openingHours": "6am to 8pm",
@@ -21,6 +22,7 @@
             "displayPosition": 1
         },
         {
+            "contactId": "F4D95ED7-54DF-4579-9419-F6AAF8BAE317",
             "name": "security",
             "title": "Village Security & Room Lockouts",
             "openingHours": "24/7",
@@ -41,6 +43,7 @@
             "displayPosition": 2
         },
         {
+            "contactId": "DB00C2AC-4A5E-4003-8A21-BE92A6BC6BD2",
             "name": "bus-services",
             "title": "Bus Services Hotline",
             "openingHours": "",
