@@ -1,6 +1,7 @@
 {
     "contact": [   
         {
+            "contactId": "A4B1AD58-443A-4F9D-9390-9BD0F2836879",
             "name": "reception",
             "title": "Reception",
             "openingHours": "6am to 10pm (Daily)",
@@ -27,6 +28,7 @@
             "displayPosition": 1
         },
         {
+            "contactId": "2A50DFB4-684D-4972-91A4-B2BE0DA1A93E",
             "name": "maintenance",
             "title": "Maintenance",
             "openingHours": "24/7",
@@ -53,6 +55,7 @@
             "displayPosition": 2
         },
         {
+            "contactId": "51EB10BD-24D9-4532-8DB3-693CD45EE968",
             "name": "security",
             "title": "Security",
             "openingHours": "24/7",
