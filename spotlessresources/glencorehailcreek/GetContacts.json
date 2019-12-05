@@ -1,6 +1,7 @@
 {
     "contact": [ 
         {
+            "contactId": "623383EC-38D8-43EC-B241-5EEEB0952DA9",
             "name": "reception",
             "title": "Reception",
             "openingHours": "24/7",
@@ -28,6 +29,7 @@
             "displayPosition": 1
         },
         {
+            "contactId": "A21353A8-9C5C-4B3D-B8DF-4E123CFEC5E1",
             "name": "maintenance",
             "title": "Maintenance",
             "openingHours": "24/7",
@@ -55,6 +57,7 @@
             "displayPosition": 2
         },
         {
+            "contactId": "E1EDA8B6-E3A8-4026-8A29-D32FBB34F437",
             "name": "paramedic",
             "title": "Paramedic",
             "openingHours": "24/7",
