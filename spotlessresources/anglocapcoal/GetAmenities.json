@@ -1,6 +1,7 @@
 {
     "amenity": [         
         {
+            "amenityId": "368ADAA6-73EE-4803-9670-E23439343C4C",
             "name": "restaurant",
             "title": "Dining Room",
             "openingHours": "4am to 10:30am - 4pm to 10:30pm",
@@ -27,6 +28,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "225DD40B-343D-412D-BCF0-B847022F7423",
             "name": "recreation",
             "title": "Recreation Room",
             "openingHours": "24/7 (10pm noise curfew)",
@@ -53,6 +55,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "67580D2B-8ACD-487F-BCD0-FC6FA7A81C6D",
             "name": "locker",
             "title": "Locker Room",
             "openingHours": "24/7",
@@ -79,6 +82,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "7339B6DE-F92A-4F45-8F6C-1ABD51AB4ABB",
             "name": "tennis",
             "title": "Tennis Court",
             "openingHours": "Open until 10pm",
@@ -105,6 +109,7 @@
             "uxIsDisabled": false
         },
         {
+            "amenityId": "5F6606AC-3762-4AF4-A69A-9A65CDECA8C3",
             "name": "oasis",
             "title": "Oasis Room",
             "openingHours": "As required",
