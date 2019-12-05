@@ -1,6 +1,7 @@
 {
     "amenity": [
         {
+            "amenityId": "92D75A10-08C0-4A8E-A87D-D173149C8AC3",
             "name": "restaurant",
             "title": "Dining Room",
             "openingHours": "4:30am to 8:30am - 4:30pm - 8:30pm",
@@ -29,6 +30,7 @@
             "location": ""
         },
         {
+            "amenityId": "5A3D0916-746B-49BB-AF25-D1F142C16AE8",
             "name": "recreation",
             "title": "Recreation Room",
             "openingHours": "24/7",
@@ -57,6 +59,7 @@
             "location": ""
         },
         {
+            "amenityId": "C08A617D-EFEC-4F26-9C6E-223A08926368",
             "name": "gymnasium",
             "title": "Gymnasium",
             "openingHours": "24/7",
@@ -85,6 +88,7 @@
             "location": ""
         },
         {
+            "amenityId": "18237B86-7FD4-456A-92E0-8E78B9F9935E",
             "name": "tavern",
             "title": "Tavern",
             "openingHours": "5:30pm to 9:30pm",
@@ -113,6 +117,7 @@
             "location": ""
         },
         {
+            "amenityId": "F66EB1A5-36A8-413C-AE03-B3D988B7CC1F",
             "name": "pool",
             "title": "Swimming Pool",
             "openingHours": "24/7",
