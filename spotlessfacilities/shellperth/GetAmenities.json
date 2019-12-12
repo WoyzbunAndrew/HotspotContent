@@ -2,6 +2,7 @@
 {
     "amenity": [         
         {
+            "amenityId": "7570F2C6-6A77-47B8-809E-AB963D6BBFCE",  
             "name": "gymnasium",
             "title": "Gymnasium",
             "openingHours": "",
@@ -30,6 +31,7 @@
             "location": "Surge Fitness (Level 3, King Square 3)"
         },
         {
+            "amenityId": "7D550C26-C988-4451-B8C4-C1B93784655D",    
             "name": "child-care",
             "title": "Child Care",
             "openingHours": "",
@@ -58,6 +60,7 @@
             "location": "Nida Early School (Level 2, King Square 3)"
         },
         {
+            "amenityId": "2D0DD8B3-55D7-40D7-8028-C1EE00030825",  
             "name": "medical-centre",
             "title": "Health Suite & Medical Staff",
             "openingHours": "",
@@ -86,6 +89,7 @@
             "location": "Level 1"
          },
          {
+            "amenityId": "72356FC2-B2C7-477C-8E17-C45F63EEB050", 
             "name": "wellness-room",
             "title": "Wellness Room & Mother's Area",
             "openingHours": "",
@@ -114,6 +118,7 @@
             "location": "Level 1 in Health Suite"
          },
          {
+            "amenityId": "1AD4F943-BD6C-4885-9919-52DD2B3B45C1", 
             "name": "oasis",
             "title": "External Visitor Meeting Room",
             "openingHours": "",
@@ -142,6 +147,7 @@
             "location": "Level 1 and Level 11"
          },
          {
+            "amenityId": "5760D2A8-23F0-4AFF-8268-DD536E1DA1A7", 
             "name": "reflection-room",
             "title": "Reflection Room",
             "openingHours": "",
