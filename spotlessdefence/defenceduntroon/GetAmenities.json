@@ -1,6 +1,7 @@
 {
     "amenity": [  
         {
+            "amenityId": "3232AA74-C1FA-49AA-BC28-7683AA5DA6F8",
             "name": "gymnasium",
             "title": "Gymnasium",
             "openingHours": "7am to 7pm (Mon - Fri)",
@@ -29,6 +30,7 @@
             "location": ""
         },
         {
+            "amenityId": "E8B78515-1523-4E93-9E5B-BB4C3B2C8A90",
             "name": "pool",
             "title": "Swimming Pool",
             "openingHours": "12pm to 8pm",
@@ -57,6 +59,7 @@
             "location": ""
         },
         {
+            "amenityId": "A9C65232-89BB-4DDE-B059-B2061A8E5896",
             "name": "medical-centre",
             "title": "Duntroon Clinic",
             "openingHours": "9am to 4pm - 8am to 12pm (Friday)",
@@ -84,7 +87,8 @@
             "displayLocation": false,
             "location": ""
         },
-         {
+        {
+            "amenityId": "EBA9CF57-B828-469F-B687-D9FDAF7BE145",
             "name": "rmc-chapel",
             "title": "RMC Chapel",
             "openingHours": "Wednesdays and Sundays",
@@ -113,6 +117,7 @@
             "location": ""
         },
         {
+            "amenityId": "5BADB422-EDD5-4CA8-9912-3ECCDB541A81",
             "name": "mess-cadets",
             "title": "Cadet's Mess",
             "openingHours": "",
@@ -141,6 +146,7 @@
             "location": "Building A030"
         },
         {
+            "amenityId": "B1CE78F3-CE18-4BC5-B0B4-B935E4319597",
             "name": "mess-officers",
             "title": "Officer's Mess",
             "openingHours": "",
@@ -169,6 +175,7 @@
             "location": "Building C010 (Plant Road, Campbell)"
         },
         {
+            "amenityId": "6F342DE5-6002-4B5E-8CD6-1E78B5B7ED46",
             "name": "mess-ors",
             "title": "OR's Mess",
             "openingHours": "",
@@ -197,6 +204,7 @@
             "location": "Building D082 (Plant Road, Campbell)"
         },
         {
+            "amenityId": "45867697-CF89-46A9-9C88-886F597E8F04",
             "name": "mess-sergeants",
             "title": "Sergeant's Mess",
             "openingHours": "",
