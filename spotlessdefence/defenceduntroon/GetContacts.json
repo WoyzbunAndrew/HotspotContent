@@ -2,6 +2,7 @@
 {
     "contact": [
         {
+            "contactId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
             "name": "reception",
             "title": "Accommodation Office",
             "openingHours": "8:30am to 5pm",
@@ -29,6 +30,7 @@
             "displayPosition": 2
         },
         {
+            "contactId": "B808A42B-061D-4B38-A7CF-A3528B152299",
             "name": "base-services-support-centre",
             "title": "Base Services Support Centre",
             "openingHours": "24/7",
@@ -56,6 +58,7 @@
             "displayPosition": 1
         },
         {
+            "contactId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
             "name": "security-incident",
             "title": "Security Incident",
             "openingHours": "24/7",
