@@ -68,6 +68,75 @@
                     "displayPosition": 14
                 }
             ]
+        },
+         {
+            "eventMenuId": "691270E2-4904-448C-8BBB-17044981B276",
+            "eventId": "4A3BB44C-5E3C-47CA-9B9F-CCE715F15251",
+            "name": "australia-day",
+            "title": "Australia Day",
+            "imageName": "flag-of-australia-1766215.jpg",
+            "imageClassName": "australia-day-image",
+            "date": "2020-01-26",
+            "mealType": "dinner",
+            "isActivated": true,
+            "menuItem": [
+                {
+                    "name": "Split Roast Rosemary, Garlic & Lemon Marinated Lamb",
+                    "displayPosition": 1
+                },
+                {
+                    "name": "Charred Salt & Pepper Lamb Chops",
+                    "displayPosition": 2
+                },
+                {
+                    "name": "Game Sausage with Fried Onions",
+                    "displayPosition": 3
+                },
+                {
+                    "name": "Aussie Burger Bar",
+                    "displayPosition": 4
+                },
+                {
+                    "name": "Meat & Red Wine Pie",
+                    "displayPosition": 5
+                },
+                {
+                    "name": "Creamy Coleslaw & MYO Garden Salad",
+                    "displayPosition": 6
+                },
+                {
+                    "name": "Roast Butternut Pumpkin Soup",
+                    "displayPosition": 7
+                },
+                {
+                    "name": "Forest Mushroom Risotto",
+                    "displayPosition": 8
+                },
+                {
+                    "name": "Vegemite Cheese Bread",
+                    "displayPosition": 9
+                },
+                {
+                    "name": "Potato Bake with Crispy Bacon & Tasty Cheese",
+                    "displayPosition": 10
+                },
+                {
+                    "name": "Vegetarian Lasagne",
+                    "displayPosition": 11
+                },
+                {
+                    "name": "Oven Roasted Sweet Potato",
+                    "displayPosition": 12
+                },
+                {
+                    "name": "Green Beans with Roast Garlic & Parmesan",
+                    "displayPosition": 13
+                },
+                {
+                    "name": "Pavlova, Sticky Date Pudding & Lamingtons",
+                    "displayPosition": 14
+                }
+            ]
         }
     ]
 }
