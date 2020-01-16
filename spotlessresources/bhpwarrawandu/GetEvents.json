@@ -483,6 +483,29 @@
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": true
+        },
+        {
+            "eventId": "4A3BB44C-5E3C-47CA-9B9F-CCE715F15251",
+            "name": "australia-day",
+            "title": "Australia Day",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2020-01-26",
+            "displayDate": "Sunday 26th of January",
+            "time": "4pm - 8:30pm",
+            "location": "Restaurant",
+            "description": "Australia Day",
+            "details1": "This is the Story of Australia - the story of an extraordinary nation. The story begins 60,000 years ago. New chapters are written everyday. On Australia Day, we reflect on our history, its highs and its lows. We respect the stories of others. And we celebrate our nation, its achievements and most of all, its people. We are all part of the story.",
+            "details2": "We celebrate all the things we love about Australia: our land, lifestyle, democracy and the freedoms we enjoy. Also we acknowledge the contribution that every Australian makes to our contemporary and dynamic nation. This is more than just a day off.",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "christmas-night-image-1.jpg",
+            "imageClassName": "christmas-night-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true,
+            "hasMenu": true
         }  
 
     ]
