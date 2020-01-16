@@ -76,9 +76,9 @@
             "title": "Australia Day",
             "imageName": "flag-of-australia-1766215.jpg",
             "imageClassName": "australia-day-menu-image",
-            "date": "2020-01-18",
+            "date": "2020-01-26",
             "mealType": "dinner",
-            "isActivated": true,
+            "isActivated": false,
             "menuItem": [
                 {
                     "name": "Split Roast Rosemary, Garlic & Lemon Marinated Lamb",
