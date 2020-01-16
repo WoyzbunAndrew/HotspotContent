@@ -502,7 +502,7 @@
             "eventUrl": "",
             "imageName": "flag-of-australia-1766215.jpg",
             "imageClassName": "australia-day-image",
-            "isActivated": true,
+            "isActivated": false,
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": true
