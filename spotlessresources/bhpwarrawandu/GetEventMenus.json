@@ -75,7 +75,7 @@
             "name": "australia-day",
             "title": "Australia Day",
             "imageName": "flag-of-australia-1766215.jpg",
-            "imageClassName": "australia-day-image",
+            "imageClassName": "australia-day-menu-image",
             "date": "2020-01-18",
             "mealType": "dinner",
             "isActivated": true,
