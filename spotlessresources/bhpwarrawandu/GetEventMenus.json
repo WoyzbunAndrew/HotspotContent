@@ -78,7 +78,7 @@
             "imageClassName": "australia-day-menu-image",
             "date": "2020-01-26",
             "mealType": "dinner",
-            "isActivated": false,
+            "isActivated": true,
             "menuItem": [
                 {
                     "name": "Split Roast Rosemary, Garlic & Lemon Marinated Lamb",
