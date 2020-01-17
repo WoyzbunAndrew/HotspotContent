@@ -179,7 +179,7 @@
             "amenityId": "E6A19DE4-41EF-4F61-B7F4-F03B7C8DB483",
             "name": "mail-service",
             "title": "Mail Service",
-            "openingHours": "5am to 7pm",
+            "openingHours": "5am to 8pm",
             "displayOpeningHours": true,
             "phoneNumber": "0428 761 953",
             "displayPhoneNumber": true,
@@ -194,7 +194,7 @@
             "detail": {
                 "intro": "",
                 "listTitle": "Things to Know",
-                "listItem1": "Persoanl mail can be sent to our mailbox and can be collected from the pigeonholes in the Accommodation Office",
+                "listItem1": "Personal mail can be sent to our mailbox and can be collected from the pigeonholes in the Accommodation Office",
                 "listItem2": "Mail should be addressed as follows: Attn: (Your Name) - C/- Kalgan's Rest, PMB 37, Newman, WA 6753",
                 "listItem3": ""
             },
