@@ -228,7 +228,7 @@
                 "listItem2": "Facilities are available for visitors and residents",
                 "listItem3": ""
             },
-            "displayPosition": 8,
+            "displayPosition": 9,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
@@ -257,7 +257,7 @@
                 "listItem2": "All resident names and room numbers must be supplied on the request form",
                 "listItem3": "BBQ Meal Replacement is available for breakfast and evening meals only"
             },
-            "displayPosition": 9,
+            "displayPosition": 10,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
@@ -286,7 +286,7 @@
                 "listItem2": "Tea",
                 "listItem3": "Light Refreshments"
             },
-            "displayPosition": 10,
+            "displayPosition": 8,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
